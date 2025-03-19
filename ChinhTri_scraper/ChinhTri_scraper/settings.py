@@ -15,10 +15,10 @@ ROBOTSTXT_OBEY = True
 DOWNLOAD_DELAY = 5  # Chờ 5 giây giữa các request
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 16  # Giữ mặc định hoặc tăng nếu cần
+CONCURRENT_REQUESTS = 32  # Giữ mặc định hoặc tăng nếu cần
 
 # Giới hạn độ sâu phân trang
-DEPTH_LIMIT = 10
+DEPTH_LIMIT = 100
 
 # Cấu hình lưu file JSON
 FEEDS = {
