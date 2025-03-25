@@ -1,0 +1,4002 @@
+[
+    {
+        "title": "Hội thảo khoa học về sức mạnh chính trị, tinh thần trong Đại thắng mùa Xuân 1975",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Sáp nhập tỉnh dự kiến hoàn thành trước ngày 30/8 để vận hành từ 1/9\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội làm việc với Ban Thường vụ Tỉnh ủy Tuyên Quang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì Phiên họp thứ nhất BCĐ của Chính phủ về phát triển KHCN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Mạnh Hùng giữ chức Bí thư Tỉnh ủy Tây Ninh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bắc Ninh tạm dừng đề án thành lập thành phố trực thuộc Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hướng tới Đại hội XIV của Đảng: Công tác nhân sự phải được tiến hành chặt chẽ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tinh gọn bộ máy để quyết định Việt Nam có vươn tới hùng cường hay không",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Nguyễn Hòa Bình gặp Phó Thủ tướng Anh Angela Rayner",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hợp tác quốc phòng là trụ cột quan trọng trong quan hệ hợp tác Việt Nam - Campuchia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chánh Văn phòng UBND tỉnh Quảng Trị bị cách chức tất cả các chức vụ trong Đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại sứ Nguyễn Minh Vũ chào xã giao Lãnh cấp cao Đảng Nhân dân Campuchia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch UBND TP.HCM chỉ đạo khẩn về tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Nguyễn Chí Dũng tiếp Thị trưởng thành phố Ninh Ba",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn Kiểm tra của Bộ Chính trị làm việc với Ban Thường vụ Tỉnh ủy Bắc Ninh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp đoàn doanh nghiệp Hội đồng Kinh doanh Hoa Kỳ - ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Thị Thanh thăm bang California, Mỹ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phối hợp tháo gỡ khó khăn khi sắp xếp bộ máy, điều chỉnh địa giới hành chính",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước chủ trì hội nghị thông qua báo cáo của Đoàn kiểm tra 1907",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Tư pháp: \"Trợ lý ảo rà soát văn bản quy phạm pháp luật đã được kết nối\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Công an: Sử dụng giấy tờ điện tử tích hợp, không yêu cầu sao y, công chứng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn kiểm tra của Bộ Chính trị công bố dự thảo báo cáo kiểm tra tại 4 tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chỉ đạo đẩy nhanh tiến độ dự án cao tốc Châu Đốc - Cần Thơ - Sóc Trăng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội dâng hương tại Khu Di tích lịch sử quốc gia đặc biệt Tân Trào",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Dương công bố các quyết định về công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bỏ cấp huyện: Công chức cấp xã cũng là công chức cấp tỉnh, trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Không để sắp xếp, tinh gọn bộ máy làm gián đoạn công việc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Nguyễn Hòa Bình gặp Thứ trưởng Bộ Tài chính Vương quốc Anh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng yêu cầu đẩy mạnh phòng, chống lãng phí, khơi thông nguồn lực",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Đức Hải hội kiến Chủ tịch Hạ viện Ấn Độ Om Birla",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Nguyễn Hòa Bình tham dự Tọa đàm doanh nghiệp FDI tại thủ đô London, Anh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Nguyễn Hòa Bình tiếp nguyên Thủ tướng Vương Quốc Anh Tony Blair",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Nguyễn Hòa Bình làm việc với Phó Thị trưởng Trung tâm Tài chính London",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính quyền địa phương 2 cấp: Cấp tỉnh kết nối với cấp xã thế nào?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trong Chiến dịch Hồ Chí Minh, các quân đoàn chủ lực như “thác đổ, triều dâng”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thông qua Dự thảo Báo cáo kết quả kiểm tra đối với Quân ủy Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Lê Thành Long trao quyết định bổ nhiệm Thứ trưởng Bộ Tư pháp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính thức bổ sung đối tượng được hưởng chế độ theo Nghị định 178",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tăng cường hợp tác giữa kiểm toán nhà nước Việt Nam và Trung Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thông qua Dự thảo báo cáo kiểm tra đối với Đảng ủy Quốc hội, Đảng ủy Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phu nhân Chủ tịch Quốc hội tiếp Nhóm Phụ nữ Cộng đồng ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm: Giải quyết dứt điểm các vụ việc khiếu kiện vượt cấp kéo dài",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phát triển kinh tế tư nhân – Đòn bẩy cho một Việt Nam thịnh vượng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Gia Lai long trọng kỷ niệm 50 năm Ngày giải phóng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Báo cáo KT-XH phải là cẩm nang hành động trong cả hệ thống chính trị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam sẵn sàng đóng vai trò đầu cầu, kết nối các nước với khu vực Đông Nam Á",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chuẩn y Chủ tịch MTTQ tỉnh Nghệ An giữ chức Phó Bí thư Tỉnh ủy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường tiếp Đại sứ các nước trình Quốc thư",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Tinh gọn bộ máy để dành nguồn lực cho đầu tư phát triển",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Thành ủy TPHCM: Sắp xếp bộ máy, người đứng đầu phải dũng cảm, quyết liệt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trần Cẩm Tú: Nâng tầm tư duy, đột phá mới trong nhận thức lý luận của Đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đề xuất bổ sung đối tượng hưởng chính sách nghỉ hưu trước tuổi để sắp xếp bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: Mục tiêu bao trùm của Đại hội XIV là quyết định những vấn đề chiến lược",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sau sáp nhập xã: Đặt tên đường, đánh số nhà để làng quê tiệm cận đô thị hóa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội chủ trì phiên họp chuẩn bị cho công tác bầu cử ĐBQH khóa XVI",
+        "label": "Chính trị"
+    },
+    {
+        "title": "95 năm Đảng bộ Hà Nội - Đảng bộ tiên phong",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cán bộ thế nào khi cấp xã “gần như một huyện thu nhỏ”?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Căn cứ Khu Lê ở Bình Thuận: 50 năm chuyển mình từ \"bom cày đạn xới\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kon Tum long trọng kỷ niệm 50 năm ngày giải phóng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính làm việc với Ban Thường vụ Tỉnh ủy Vĩnh Phúc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn kiểm tra của Bộ Chính trị công bố dự thảo báo cáo kiểm tra tại Đắk Lắk",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Nội vụ đề xuất cấp bù chế độ cho cán bộ khi tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng làm trưởng ban chỉ đạo các công trình trọng điểm đường sắt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng dự khởi công dự án nhà ở xã hội hơn 7.000 tỷ đồng tại Vĩnh Phúc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TP.HCM giải đáp băn khoăn của cử tri về bộ máy sau sắp xếp tinh gọn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng dự lễ khởi công đường dây tải điện 500 kV Lào Cai - Vĩnh Yên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Tư pháp có thêm Thứ trưởng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tư duy “vào biên chế là ở nhà nước suốt đời” đã không còn phổ biến",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Dấu ấn của Binh đoàn Tây Nguyên trong giải phóng Gia Lai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tên gọi sau sáp nhập các tỉnh cũng phải đảm bảo tinh gọn, ngắn gọn, dễ hiểu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng làm việc với Bộ Quốc phòng về sản xuất công nghiệp quốc phòng công nghệ cao",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kiên Giang: Trao quyết định thành phố Rạch Giá là đô thị loại I",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng tiếp Cố vấn Cấp cao về Việt Nam tại Viện Đông Nam Á của Đại học Columbia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam lưu chiểu tọa độ đường cơ sở Vịnh Bắc Bộ tại Liên Hợp Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: Xây dựng văn kiện ngắn gọn, súc tích, dễ hiểu, dễ triển khai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nữ tướng Nguyễn Thị Định - người phụ nữ huyền thoại làm rạng danh xứ Dừa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm chủ trì cuộc họp Tiểu ban Văn kiện Đại hội XIV của Đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chỉ thị của Thủ tướng về đẩy mạnh triển khai Đề án 06 phục vụ chuyển đổi số quốc gia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Dự kiến sẽ sắp xếp cấp xã trước khi cấp huyện kết thúc sứ mệnh chính trị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cuộc truy kích trên đường số 7 trong chiến dịch Tây Nguyên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sáp nhập tỉnh, bỏ cấp huyện: Mô hình quản trị ở cơ sở sẽ thay đổi thế nào?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đảm bảo tốt nhất cho thành công của Tuần lễ cấp cao APEC 2027",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam và Hoa Kỳ ký kết nhiều thỏa thuận hợp tác trong lĩnh vực kinh tế, thương mại",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thúc đẩy hợp tác Việt Nam - Hàn Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng tiếp ông Wouter Van Wersch, Phó Chủ tịch điều hành toàn cầu Tập đoàn Airbus",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đồng Tháp thành lập 6 tổ chức cơ sở Đảng trực thuộc Đảng bộ UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Học sinh, học viên ở vùng đồng bào dân tộc thiểu số được hưởng chính sách ưu đãi mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thành lập Ban Chỉ đạo của Chính phủ về phát triển khoa học, công nghệ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lãnh đạo đảng CPP khẳng định tiếp tục vun đắp cho mối quan hệ Campuchia – Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kỳ vọng cao đối với Việt Nam trong vai trò Chủ tịch IAI 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ban Bí thư thi hành kỷ luật cán bộ, khai trừ Đảng hai cựu lãnh đạo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp Chủ tịch Tập đoàn Pacifico Energy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chuyến công tác của Tổng Bí thư: Mở ra cơ hội hợp tác toàn diện, dài hạn với các đối tác",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ủy ban Thường vụ Quốc hội sẽ họp liên tục để điều chỉnh địa giới cấp xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại tướng Nguyễn Tân Cương: Cần thiết ban hành Luật Tình trạng khẩn cấp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kỷ niệm 50 năm giải phóng, Bình Phước sẽ tái hiện cảnh giã gạo nuôi quân",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nguyên tắc \"5 rõ\": Phương thức để đổi mới quản trị quốc gia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tưởng niệm liệt sỹ Gạc Ma: 64 ngọn hoa đăng gửi xuống cửa sông trôi ra biển",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Sau khi sửa Hiến pháp sẽ kết thúc hoạt động cấp huyện, sáp nhập tỉnh và xã”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Thị Thanh gặp Thượng nghị sỹ Hoa Kỳ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam chủ động phát triển ngành Công nghiệp bán dẫn và AI trong kỷ nguyên mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Truyền thông Singapore: Chuyến thăm của Tổng Bí thư Tô Lâm có ý nghĩa lịch sử",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bỏ cấp huyện, cần có nghị quyết của Quốc hội để xử lý những vấn đề cấp bách",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng làm Trưởng Ban Chỉ đạo về phát triển khoa học công nghệ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hôm nay, Bộ Chính trị quyết chủ trương sáp nhập tỉnh, bỏ cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sáp nhập tỉnh: Liên kết để phát huy lợi thế thay vì cạnh tranh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "37 năm sự kiện Gạc Ma: “Thấy bóng hình cha giữa biển trời Trường Sa”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cuộc hội ngộ của những người \"sống chết vì Huế\" 50 năm trước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Chính phủ Phạm Minh Chính tiếp Đại sứ Hoa Kỳ tại Việt Nam Marc Evans Knappe",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ đội múa súng, hợp luyện diễu binh kỷ niệm 50 năm Ngày Giải phóng miền Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm dự tọa đàm doanh nghiệp Việt Nam - Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Không để đứt gãy, gián đoạn việc điều hành khi sắp xếp lại đơn vị hành chính các cấp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hoạt động của Phu nhân Ngô Phương Ly tại Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Công tác chuẩn bị nhân sự không chỉ cho một kỳ đại hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thông qua kết quả kiểm tra đối với Ban Thường vụ Tỉnh ủy Hà Tĩnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm về đến Hà Nội kết thúc chuyến công tác tại Indonesia và Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chuyến công tác của Tổng Bí thư đạt được tất cả các mục tiêu đề ra ở mức độ cao",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Văn Được làm Tổ trưởng Tổ công tác tháo gỡ khó khăn các dự án",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trần Cẩm Tú: “Chuẩn bị tốt các điều kiện khi thực hiện chính quyền 3 cấp”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường làm việc với Văn phòng Chủ tịch nước và Bộ Ngoại giao",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bến Tre sẽ tổ chức hội thảo về cuộc đời, sự nghiệp của nữ tướng Nguyễn Thị Định",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Làm sao để tên gọi tỉnh sau sáp nhập không chỉ là \"phép cộng cơ học\"?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Thị Thanh gặp Thượng nghị sỹ Hoa Kỳ Patricia Murray",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Thị Thanh gặp nhiều quan chức bang Maryland, Mỹ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm thăm cảng biển và Đại học Quốc gia Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì phiên họp thứ 4 Tiểu Ban Kinh tế xã hội Đại hội XIV của Đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Cần công tâm, vô tư, khách quan trong sắp xếp tổ chức bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "VOV đoạt giải A Giải báo chí về xây dựng Đảng và hệ thống chính trị của TP Hà Nội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trần Cẩm Tú: \"Rất mong các đồng chí thẳng thắn nói hết tâm tư, nguyện vọng\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Thị Thanh gặp Phó Chủ tịch Quốc hội Kyrgyzstan",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Thị Thanh gặp Tổng Thư ký LHQ và Chủ tịch Đại hội đồng LHQ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Thị Thanh tham dự Khóa họp lần thứ 69 của Ủy ban địa vị phụ nữ LHQ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nếu hai tỉnh sáp nhập vào nhau thì nên lấy tên của một tỉnh hiện có",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư và Phu nhân dự Chương trình hòa nhạc tại Đại học Quốc gia Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Quảng Ngãi cần tập trung tháo gỡ các nút thắt cho phát triển",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm hội kiến Tổng thống Singapore Tharman Shamugaratnam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm hội kiến Chủ tịch Quốc hội Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm gặp nguyên Thủ tướng Singapore Lý Hiển Long",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư tiếp Bộ trưởng Cao cấp, Bộ trưởng Điều phối an ninh quốc gia Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Hồ Đức Phớc thị sát các dự án vướng mắc tại tỉnh Khánh Hòa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng tiếp các tập đoàn lớn về năng lượng và đầu tư tài chính",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Lê Thành Long kiểm tra các dự án cao tốc tại Nam Trung Bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Toàn văn phát biểu của Tổng Bí thư Tô Lâm tại Trường Chính sách công Lý Quang Diệu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại sứ Nguyễn Huy Dũng trình Quốc thư lên Tổng thống Lebanon",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: Việt Nam và Singapore sẽ cùng nhau viết tiếp câu chuyện thành công",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Người tài phải giữ, người không đủ điều kiện cần đưa ra khỏi bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thông qua Báo cáo kết quả kiểm tra đối với Ban Thường vụ Tỉnh ủy Thanh Hóa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công nhận xã An toàn khu thời kỳ kháng chiến chống Pháp và chống Mỹ tại Cần Thơ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đề xuất bổ sung đối tượng, mức hỗ trợ thêm của địa phương cho cán bộ khi tinh gọn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chỉnh phủ thành lập Ban chỉ đạo thực hiện sắp xếp đơn vị hành chính các cấp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Bình lập ban chỉ đạo về phát triển khoa học và chuyển đổi số",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Đoàn Ngọc Hùng Anh làm Phó Chủ tịch HĐND TP Đà Nẵng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tuyên bố chung Việt Nam- Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam và Singapore nâng cấp quan hệ lên Đối tác chiến lược toàn diện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Xây dựng chương trình phát triển công dân số trên cả nước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cà Mau dừng điều động và bổ nhiệm cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội dự Lễ động thổ dự án Khu công nghiệp VSIP II Quảng Ngãi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cần Thơ: Gần 1.200 cán bộ, công chức, viên chức nghỉ việc trong 4 năm qua",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lễ đón trọng thể Tổng Bí thư Tô Lâm thăm chính thức Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Singapore lấy tên Tổng Bí thư Tô Lâm và Phu nhân đặt cho loài hoa lan mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ninh hoàn thành xây dựng Đề án sắp xếp đơn vị hành chính trước 5/4",
+        "label": "Chính trị"
+    },
+    {
+        "title": "50 năm giải phóng, Kon Tum vươn lên mạnh mẽ¸ tăng trưởng nhanh nhất Tây Nguyên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thông qua kết quả kiểm tra của Bộ Chính trị đối với Ban Thường vụ Thành ủy Hải Phòng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm gặp mặt cán bộ nhân viên Đại sứ quán Việt Nam tại Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm gặp mặt trí thức kiều bào tại Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hoạt động của Phu nhân Tổng Bí thư Ngô Phương Ly tại Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đồng Tháp Công bố thành lập Đảng bộ cơ sở HĐND",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng: “Tạo điều kiện thuận lợi nhất để dồn sức hoàn thành Vành đai 3”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội tiếp Cố vấn đặc biệt Liên minh nghị sĩ hữu nghị Nhật - Việt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sắp xếp các đơn vị hành chính: Dự kiến giảm 50% cấp tỉnh, hơn 70% cấp cơ sở",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp các doanh nghiệp hàng đầu Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư chứng kiến Vietjet công bố đường bay thẳng Singapore - Phú Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Toàn cảnh chuyến thăm Indonesia của Tổng Bí thư Tô Lâm và Phu nhân",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hội thảo khoa học \"Khởi nghĩa Ba Tơ - Giá trị lịch sử và bài học kinh nghiệm\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tới Sân bay quốc tế Changi, bắt đầu thăm chính thức Singapore",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Không cần thiết ra nghị quyết giải thích về “tổ chức đảng trong sạch, vững mạnh”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư kết thúc chuyến thăm cấp Nhà nước Indonesia, thăm chính thức Ban Thư ký ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm hội kiến với Chủ tịch Hội đồng Hiệp thương Nhân dân Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Phạm Thị Thanh Trà: Sắp xếp lại đơn vị hành chính là \"việc đại sự\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm hội kiến với Chủ tịch Hội đồng Đại biểu địa phương Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bỏ thẩm quyền ban hành văn bản quy phạm pháp luật của cấp xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm gặp Chủ tịch Hạ viện Indonesia Puan Maharani",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Quốc hội Nguyễn Thị Thanh gặp Tổng Thư ký Liên Hợp Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: \"Tới đây sửa Hiến pháp, sáp nhập tỉnh, sắp xếp 60-70% xã”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam, Indonesia nâng cấp quan hệ: Dư luận kỳ vọng mở ra hướng hợp tác mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "11 nước có quan hệ Đối tác Chiến lược Toàn diện với Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng ra Chỉ thị về chủ động thích ứng với tình hình thế giới và khu vực",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chiến thắng Buôn Ma Thuột: Hồi ức của những người trong cuộc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đổi thay trên vùng đất An toàn khu Ba Tơ - Quảng Ngãi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Học giả Thái Lan: Vai trò dẫn dắt ASEAN và vị thế toàn cầu lớn hơn của Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam và Singapore cam kết hợp tác cùng thắng trước sự cạnh tranh của các nước lớn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Chính trị: Tạm dừng tuyển dụng, bổ nhiệm cho đến khi hoàn thành sắp xếp bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tuyên bố chung về việc tăng cường quan hệ Indonesia - Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm và Tổng thống Indonesia họp báo thông tin kết quả hội đàm",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hội đàm cấp cao giữa Tổng Bí thư Tô Lâm và Tổng thống Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì phiên họp thứ ba của Ban Chỉ đạo TW xóa nhà tạm, nhà dột nát",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Indonesia bắn 21 phát đại bác chào đón Tổng Bí thư Tô Lâm thăm cấp Nhà nước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "50 năm giải phóng Tây Nguyên, Phó Chủ tịch nước Võ Thị Ánh Xuân thăm biên giới Kon Tum",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Định tạm dừng bầu cử trưởng thôn, trưởng khu phố",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nghiên cứu giảm thuế đối với báo chí xuống cùng mức 10%",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Dư luận đánh giá bài phát biểu của Tổng Bí thư về ASEAN \"sâu sắc, có tầm nhìn\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Xăng, điều hòa chịu đánh thuế tiêu thụ đặc biệt là không phù hợp?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kỷ luật cán bộ vi phạm quy định trong quản lý đất đai, thuế ở Bình Phước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn kiểm tra 1924 của Bộ Chính trị làm việc với Tỉnh ủy Tiền Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phát biểu chính sách của Tổng Bí thư Tô Lâm tại Lễ kỷ niệm 30 năm VIệt Nam gia nhập ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lần đầu tiên Tổng Bí thư ĐCS Việt Nam thăm Ban Thư ký ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Lắk long trọng tổ chức Lễ kỷ niệm 50 năm chiến thắng Buôn Ma Thuột",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Huế: Bổ nhiệm ông Đặng Hữu Phúc làm Giám đốc Sở Công Thương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Cần nguồn tiền rất lớn để di dời hộ dân ra khỏi “phố cà phê đường tàu”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Nhân dân kỳ vọng trước sự chỉ đạo quyết liệt về sắp xếp tinh gọn bộ máy”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư mong muốn các DN Indonesia đầu tư, kinh doanh lâu dài tại Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Lựa chọn quy định phải sửa ngay để khó đâu tháo đó, tắc đâu thông đó”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Sẽ sửa đổi Hiến pháp 2013 và các luật liên quan",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lòng tin chính trị đưa hợp tác Việt Nam - Singapore lên tầm cao mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ủy ban Thường vụ Quốc hội cho ý kiến về nhiều dự án luật quan trọng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tròn 50 năm giải phóng Đắk Lắk, từ tỉnh nghèo đến địa phương đứng đầu Tây Nguyên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam - Singapore sẽ là mối quan hệ thực sự hiệu quả trong kỷ nguyên mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sáp nhập tỉnh: Có nên khôi phục lại tên gọi đã từng tồn tại?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "50 năm chiến thắng Buôn Ma Thuột: \"Đòn hiểm\" trong Đại thắng mùa Xuân 1975",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm dự hòa nhạc Kỷ niệm 70 năm quan hệ Việt Nam – Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Nông long trọng kỷ niệm 50 năm chiến thắng Đức Lập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Trọng Nghĩa dự Chương trình \"Vinh quang Công an nhân dân Việt Nam\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nghị quyết phiên họp tháng 2 của Chính phủ: Thúc đẩy tăng trưởng cao, bền vững",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tăng cường hợp tác giữa các địa phương Pháp và Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư tiếp lãnh đạo một số Tập đoàn và doanh nghiệp hàng đầu Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm gặp gỡ cộng đồng người Việt tại Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Năm 2025 phải hoàn thành mục tiêu có ít nhất 3.000 km cao tốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chuẩn bị tổ chức Đại hội Đảng bộ Chính phủ lần thứ nhất",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Indonesia bắn 7 loạt đại bác chào đón Tổng Bí thư Tô Lâm và Phu nhân",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lãnh đạo Tập đoàn Ciputra: Tinh gọn bộ máy tạo thuận lợi cho đầu tư nước ngoài",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm và Phu nhân rời Hà Nội thăm cấp Nhà nước Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TP.HCM từ bộn bề khó khăn đến khao khát vươn tầm cao mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chuyến công tác của Tổng Bí thư mở ra không gian hợp tác mới cho Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Bình giải quyết vấn đề phát sinh từ cơ sở sau khi giải thể công an huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hồi ức tháng 3 Tây Nguyên – Niềm vui và hy vọng sau ngày giải phóng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Chính trị đồng ý chủ trương điều chỉnh phạm vi và đối tượng áp dụng Nghị định 178",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phê chuẩn kết quả bầu, miễn nhiệm phó chủ tịch UBND 2 địa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam khẳng định cam kết chương trình nghị sự về phụ nữ, hòa bình và an ninh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư thăm Ban Thư ký ASEAN: Mở ra không gian hợp tác mới cho Việt Nam-ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì họp về tháo gỡ các khó khăn vướng mắc, thúc đẩy tăng trưởng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giao quyền Chủ tịch UBND tỉnh Tây Ninh cho ông Nguyễn Hồng Thanh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sắp xếp cấp tỉnh, để không còn tồn tại tư tưởng “quyền anh, quyền tôi”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng gặp mặt các nữ anh hùng LLVT, nữ anh hùng lao động, nữ tướng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quan hệ Việt Nam - Indonesia: Sức mạnh của hợp tác và khát vọng chung",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chuyến thăm của Tổng Bí thư đến Indonesia: Có thể nâng cấp quan hệ song phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tới Indonesia Khẳng định quan hệ đối tác 70 năm bền chặt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Người ghi bút tích trên lá cờ giải phóng trong Chiến dịch Tây Nguyên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sáp nhập các tỉnh thì đặt tên thế nào?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Toàn cảnh chuyến thăm Việt Nam của Thủ tướng Kyrgyzstan: Ký kết nhiều văn kiện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Chính phủ phê chuẩn nhân sự tỉnh Nghệ An, Thái Nguyên, Lào Cai, Lâm Đồng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thanh Hóa có tân Giám đốc Sở Tài chính",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công tác cán bộ là mấu chốt để Đồng Nai tăng trưởng 2 con số",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quản lý nhà nước về báo chí để kiến tạo cho sự phát triển",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phải có chiến lược rõ ràng để khu vực kinh tế tư nhân phát triển xứng tầm",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì hội nghị quán triệt, triển khai các luật, nghị quyết mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Cộng hòa Kyrgyzstan kết thúc tốt đẹp chuyến thăm chính thức Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chuyến công du Indonesia của Tổng Bí thư mở ra không gian hợp tác mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại sứ Việt Nam tại Australia trình quốc thư lên lãnh đạo Solomon",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Lò Văn Cương được bầu giữ chức Phó Chủ tịch UBND tỉnh Điện Biên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tuyên bố chung về kết quả chuyến thăm chính thức Việt Nam của Thủ tướng Kyrgyzstan",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Việt Nam, Kyrgyzstan thăm Nhà sàn Bác Hồ, thưởng thức cà phê Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Huyện ủy Lộc Ninh làm Phó Chủ tịch UBND tỉnh Bình Phước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hà Nội phát động Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Nguyễn Hòa Bình trao Quyết định bổ nhiệm tân Phó Chủ nhiệm VPCP",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Dân tộc và Tôn giáo: Làm tốt sứ mệnh để đất nước vững bước trong kỷ nguyên mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam luôn tạo thuận lợi cho người khuyết tật thực hiện bình đẳng các quyền",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam cam kết ủng hộ nỗ lực giải trừ vũ khí hạt nhân toàn cầu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bổ nhiệm lại Phó Chủ tịch Viện Hàn lâm Khoa học và Công nghệ Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hà Nội tạm dừng tổ chức đại hội đảng bộ quận, huyện, thị xã và các tổ chức cơ sở Đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giảm 6 đơn vị sau sắp xếp Tổng cục Khí tượng Thủy văn thành Cục Khí tượng Thủy văn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Những người sống và chiến đấu vì Buôn Ma Thuột: Nửa thế kỷ vẫn vẹn nguyên ký ức",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính quyền 3 cấp là tất yếu khách quan và cần làm ngay",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm và Phu nhân sẽ thăm cấp Nhà nước tới Cộng hòa Indonesia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chiến dịch Tây Nguyên làm chấn động cả giới quân sự quốc tế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Khoa học và Công nghệ công bố cấp trưởng 25 đơn vị đầu mối sau hợp nhất",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thường trực Ban Bí thư chủ trì giao ban với các ban đảng, các đảng uỷ, cơ quan Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường tiếp Thủ tướng Kyrgyzstan Adylbek Kasymaliev",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp Thủ tướng Cộng hòa Kyrgyzstan Adylbek Kasymaliev",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Thủ tướng Cộng hòa Kyrgyzstan Adylbek Kasimalyev",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Đất trong tay, tiền huy động, cơ chế do mình mà sao nhà ở xã hội lại chậm?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đà Nẵng phát động Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng lần thứ II",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sau sắp xếp, Công an TP.HCM tăng cường nhiệm vụ cấp xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chuyên gia đề xuất hướng sửa đổi 2 điều trong Hiến pháp khi bỏ cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khánh Hòa khẩn trương giải quyết tồn đọng, sẵn sàng sắp xếp huyện, xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hà Nội nghiên cứu phương án tổ chức lại một số đơn vị cấp xã theo mô hình địa phương 2 cấp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Phan Đình Trạc: Cái gì luật không cấm thì tạo không gian đổi mới sáng tạo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiều lãnh đạo cấp phòng và hiệu trưởng ở Bắc Ninh xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn kiểm tra của Bộ Chính trị làm việc với Đảng ủy UBND tỉnh Kon Tum",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Nội vụ đề nghị tạm dừng giải quyết chế độ với cán bộ không tái cử, tái bổ nhiệm",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính hội đàm với Thủ tướng Kyrgyzstan Adylbek Kasymaliev",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đổi mới tư duy xây dựng pháp luật, chấm dứt tình trạng “không quản được thì cấm”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội Trần Thanh Mẫn gặp mặt chúc mừng nữ đại biểu Quốc hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì Lễ đón Thủ tướng Cộng hòa Kyrgyzstan thăm chính thức Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Toàn cảnh lễ đón Thủ tướng Kyrgyzstan thăm chính thức Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ủy ban Thường vụ Quốc hội sẽ cho ý kiến về giảm tiền thuê đất",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Các sở, ngành mới ở Bình Định làm hết việc chứ không hết giờ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thúc đẩy quan hệ Việt Nam - Kyrgyzstan phát triển lên tầm cao mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giải thế công an cấp huyện ở Đà Nẵng: Các hoạt động không bị ngắt quãng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đảng ủy Chính phủ thảo luận đề án sắp xếp, tổ chức lại đơn vị hành chính các cấp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính tiếp Tổng Tham mưu trưởng Quân đội nhân dân Lào",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Công an đã giải thể 694 cơ quan công an cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khánh Hòa tạm dừng bổ nhiệm chức vụ cao hơn đối với cán bộ huyện, xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Bình Dương kiểm tra công an xã sau giải thể công an huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam, Ấn Độ trao đổi quan điểm về nhiều vấn đề quốc tế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hội thảo khoa học 50 năm chiến thắng Tây Nguyên với nhiều góc nhìn mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố thành lập Sở Dân tộc và Tôn giáo TPHCM",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Khẩn trương xây dựng Đề án sáp nhập một số đơn vị hành chính cấp tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sửa Hiến pháp để cải cách bộ máy, xây dựng chính quyền địa phương 2 cấp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam ủng hộ Nghị quyết kỷ niệm 80 năm kết thúc Chiến tranh thế giới thứ hai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TP Huế sau khi sắp xếp bộ máy: Người dân làm thủ tục hành chính vẫn nhanh, gọn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chiến dịch Huế - Đà Nẵng: Đòn quyết định giải phóng hoàn toàn miền Nam năm 1975",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Bình: Sở, ngành sau sáp nhập hoạt động thông suốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng bổ nhiệm ông Phạm Mạnh Cường giữ chức Phó Chủ nhiệm Văn phòng Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn kiểm tra số 1927 của Bộ Chính trị làm việc tại Lào Cai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố Quyết định kiểm tra của Bộ Chính trị đối với Ban Thường vụ Tỉnh ủy Đắk Lắk",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giám đốc Sở Kế hoạch và Đầu tư tỉnh Đồng Tháp làm Bí thư Huyện ủy Cao Lãnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: Khẩn trương xây dựng và phát triển công nghệ chiến lược",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chánh án TAND tối cao Lê Minh Trí tiếp Đại sứ Hàn Quốc tại Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hàng nghìn cán bộ chiến sĩ hợp luyện diễu binh, diễu hành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính chủ trì toạ đàm với các doanh nghiệp ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bắc Ninh hoàn thành việc sắp xếp bộ máy chính quyền",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Nghiên cứu sửa đổi, bổ sung một số điều của Hiến pháp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lào Cai có tân Phó Chủ tịch UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thứ trưởng Bùi Hoàng Phương là người phát ngôn của Bộ Khoa học và Công nghệ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bổ nhiệm lãnh đạo các đơn vị của Bộ Dân tộc và Tôn giáo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính chủ trì toạ đàm với các doanh nghiệp Hàn Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tỉnh Nghệ An chỉ đạo hỏa tốc liên quan đến sắp xếp tổ chức bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lộ trình xây dựng đề án bỏ cấp huyện, sáp nhập tỉnh, thành theo Kết luận 127",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lai Châu điều động, bổ nhiệm cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nghệ thuật quân sự đặc sắc trong Chiến dịch Tây Nguyên: Nghệ thuật nghi binh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chiến dịch Tây Nguyên chính thức bắt đầu vào rạng sáng 4/3/1975",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Bình xây dựng đề án tinh gọn bộ máy với định hướng không tổ chức cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thượng tá Lê Văn Thuận, Thượng tá Lê Trung Ái làm Phó Giám đốc Công an Tây Ninh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn kiểm tra 1923 của Bộ Chính trị làm việc với Tỉnh ủy Ninh Thuận",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ngãi: Tạm dừng việc tổ chức đại hội cấp huyện, xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam - Bulgaria hướng tới hợp tác thực chất và hiệu quả",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Công an làm việc với Bình Phước, Bình Dương sau khi giải thể công an huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Gia Lai công bố nhân sự lãnh đạo các sở, ngành sau sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ nhiệm Chính trị CSB Việt Nam làm Chính uỷ Bộ Tư lệnh Vùng CSB 2",
+        "label": "Chính trị"
+    },
+    {
+        "title": "7 sở mới thành lập của Nghệ An có 35 phó giám đốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nửa thế kỷ nhìn lại chiến thắng Đức Lập - điểm mở màn chiến dịch Tây Nguyên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn Ủy ban Chính sách Đối ngoại Quốc hội Đan Mạch thăm và làm việc ở Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giám đốc Sở Kế hoạch và Đầu tư làm Chủ tịch Hội Nông dân Đồng Nai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố quyết định kiểm tra của Bộ Chính trị tại tỉnh Lâm Đồng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chức năng, nhiệm vụ của 30 cơ sở Công an Hà Nội tại các quận, huyện, thị xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Xây dựng bổ nhiệm 28 lãnh đạo cấp trưởng tại 28 cơ quan, đơn vị trực thuộc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn công tác của Bộ Chính trị làm việc tại tỉnh Bạc Liêu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Vì sao Việt Nam nhiều lần sáp nhập và chia tách tỉnh thành?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ban Bí thư chuẩn y nhân sự tham gia Ban Thường vụ Tỉnh ủy Bình Định",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Khoa học và Công nghệ sau hợp nhất còn 25 đầu mối",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trương Quốc Huy được bầu giữ chức Bí thư Tỉnh ủy Hà Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam được đề cử làm Chủ tịch Hội nghị SPLOS",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TAND Tối cao dự kiến sáp nhập các toà án cấp huyện trên cả nước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tạm dừng việc triển khai đề án sáp nhập báo, đài ở Ninh Thuận",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đồng Tháp thành lập 12 cơ quan chuyên môn thuộc UBND",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì cuộc họp chuẩn bị cho APEC 2027 tại Phú Quốc, Kiên Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Điều động, bổ nhiệm 3 Phó Trưởng Ban Chính sách, chiến lược Trung ương | VOV.VN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố quyết định kiểm tra của Bộ Chính trị đối với Tỉnh ủy Khánh Hòa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng phê chuẩn 2 Phó Chủ tịch UBND tỉnh Nghệ An",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch TPHCM trao quyết định điều động, bổ nhiệm tại các đơn vị mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thành lập 9 tổ công tác công an tỉnh ở địa bàn cấp huyện của Bình Thuận",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trần Trí Quang được giao quyền Chủ tịch UBND Đồng Tháp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Triển khai Kết luận 127: Đà Nẵng yêu cầu các đơn vị báo cáo vào thứ 5 hàng tuần",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khi bỏ cấp huyện, thành phố và thị xã ở các địa phương sẽ thế nào?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sau 50 năm giải phóng Đà Nẵng: Kỳ vọng vào những thể chế kinh tế mới mẻ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thiếu tướng Lê Văn Cương: Nhanh chóng bố trí cán bộ công an cấp huyện hợp lý",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an TP Hà Nội bố trí 30 cơ sở tại các quận, huyện, thị xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính chủ trì Toạ đàm với các doanh nghiệp châu Âu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TP.HCM tạm dừng Đại hội Đảng các cấp để tập trung sắp xếp bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bài viết của Tổng Bí thư Tô Lâm: \"Học tập suốt đời\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính nhận danh hiệu “Giáo sư danh dự\" Đại học Thanh Hoa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính tiếp Bí thư Đảng ủy Đại học Thanh Hoa, Trung Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Đỗ Đức Duy nói gì khi 22 cục trưởng, vụ trưởng xuống cấp phó?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cận cảnh trụ sở 6 bộ mới sau sáp nhập, hợp nhất",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chỉ đạo các nhiệm vụ, giải pháp bảo đảm mục tiêu tăng trưởng 2025 đạt 8% trở lên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Biên cương vang vọng lời thề",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thứ trưởng Bộ Giao thông vận tải làm Bí thư Tỉnh ủy Hà Tĩnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tài sản công sẽ được xử lý như thế nào sau hợp nhất, sáp nhập các bộ, sở, ngành?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cơ cấu tổ chức của Đài Tiếng nói Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thiếu tướng Nguyễn Thanh Tùng nhận nhiệm vụ điều hành Công an TP Hà Nội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Nguyễn Hòa Bình yêu cầu sản xuất nhôm chất lượng cao ở Đắk Nông",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trưởng công an huyện ở Bình Dương làm trưởng các phòng nghiệp vụ Công an tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính chủ trì toạ đàm với các doanh nghiệp Nhật Bản",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cao Bằng giải thể công an cấp huyện, 25 cán bộ lãnh đạo nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Trọng Nghĩa dự khánh thành Bia tưởng niệm liệt sĩ tại Tây Ninh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Long An tạm dừng đại hội đảng bộ cấp xã, huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố quyết định kiểm tra của Bộ Chính trị tại Tỉnh ủy Đắk Nông",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TP Huế giải thể 9 công an quận, huyện, thị xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Quan hệ Việt Nam - Hoa Kỳ có mối duyên nợ, đang rất tốt đẹp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng dự lễ công bố về việc thành lập Bộ Dân tộc và Tôn giáo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ninh: Huyện đảo Cô Tô có tân Bí thư huyện uỷ, Chủ tịch UBND huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Chính trị: Tạm dừng tổ chức đại hội đảng bộ cấp xã, cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Lắk sẵn sàng đảm bảo hoạt động thông suốt sau sắp xếp tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cà Mau: Đại hội điểm cấp cơ sở đầu tiên ở xã Khánh Lộc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Từ 1/3, cơ cấu tổ chức của Đài Truyền hình Việt Nam gồm 22 đơn vị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Nông nghiệp và Môi trường có 30 đơn vị đầu mối",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quy định mới về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiệm vụ, cơ cấu tổ chức của Bộ Văn hóa, Thể thao và Du lịch",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Toàn cảnh chuyến thăm Việt Nam của Thủ tướng New Zealand Christopher Luxon",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nghị quyết Đại hội phải thể hiện khát vọng nâng tầm phát triển tỉnh Khánh Hòa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đài Tiếng nói Việt Nam sẽ tập trung vào phát thanh, báo điện tử, báo in, thông tin số",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kỷ niệm 75 năm quan hệ ngoại giao Việt Nam - Liên bang Nga",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lào Cai ra mắt lãnh đạo các sở, ban, ngành mới sau sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sóc Trăng công bố quyết định giải thể 11 công an huyện, thị xã, thành phố",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sáp nhập Ban QLDA Điện nông thôn miền Trung vào Ban QLDA Lưới điện miền Trung",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cà Mau công bố quyết định giải thể công an cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Ngô Xuân Thắng, Chủ tịch HĐND thành phố làm Bí thư Đảng ủy HĐND thành phố Đà Nẵng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lai Châu công bố các quyết định về sắp xếp tổ chức bộ máy và công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an Yên Bái có thêm 1 phó giám đốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Đinh Văn Tuấn nhận nhiệm vụ Phó chủ tịch UBND tỉnh Lâm Đồng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sau sắp xếp, Ủy ban MTTQ TP.HCM còn 5 đầu mối",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Phước giải thể công an huyện, Bình Dương có 14 cán bộ nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an Bà Rịa-Vũng Tàu tiếp nhận nhiệm vụ an ninh hàng không tại Côn Đảo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì toạ đàm với 23 tập đoàn, tổng công ty tiêu biểu của Trung Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an tỉnh Quảng Bình công bố quyết định giải thể công an cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quan hệ Hungary-Việt Nam có nhiều phát triển tích cực trên tất cả các lĩnh vực",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hải Dương: Hơn 540 cán bộ, chiến sĩ bổ sung cho lực lượng Công an xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giải thể công an cấp huyện, nhiều cán bộ nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an TP Đà Nẵng bố trí công tác đối với lãnh đạo Công an quận huyện sau giải thể",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TP.HCM kỳ vọng tiềm năng hợp tác trên nhiều lĩnh vực với New Zealand",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an tỉnh Quảng Ninh công bố các quyết định về tổ chức bộ máy và công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "300 nữ cựu tù cách mạng hội ngộ, tri ân những ý chí kiên cường",
+        "label": "Chính trị"
+    },
+    {
+        "title": "28 cán bộ Công an tỉnh Long An nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ninh Thuận giải thể 7 công an huyện, thành phố",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Tỉnh uỷ Hà Tĩnh giữ chức Tổng Biên tập Tạp chí Cộng sản",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an Quảng Trị công bố các quyết định về tổ chức, cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Long An bổ nhiệm Giám đốc 6 sở, ban ngành sau sáp nhập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an Quảng Ngãi: Công bố chấm dứt hoạt động công an cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an Bắc Kạn: Nhiều cấp trưởng xung phong xuống cấp phó để sắp xếp bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Vũ Hồng Văn giữ chức Bí thư Đảng uỷ Quân sự tỉnh Đồng Nai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "23 cán bộ cấp phòng Công an tỉnh Gia Lai nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chức năng, nhiệm vụ, cơ cấu tổ chức của Bộ Xây dựng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Xây dựng con người XHCN - Nhìn từ thực tiễn thành phố Đà Nẵng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm: Tăng cường phân cấp, phân quyền cho địa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an Bà Rịa - Vũng Tàu kiện toàn bộ máy, tiếp nhận nhiều nhiệm vụ mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Nông công bố thành lập 6 sở mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lý do tăng Phó Thủ tướng, Phó Chủ tịch Quốc hội sau sắp xếp bộ máy?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Công an ra mắt Trung tâm An ninh hàng không quốc gia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Gần 700 cơ quan công an cấp huyện dừng hoạt động từ 1/3: Bộ Công an nói gì?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng phê chuẩn kết quả bầu, miễn nhiệm Phó Chủ tịch UBND 2 tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an thành phố Đà Nẵng công bố quyết định giải thể Công an quận, huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "3 Giám đốc Sở ở Nghệ An tự nguyện nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Công an chính thức tiếp nhận 5 nhóm nhiệm vụ từ các bộ, ngành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giới thiệu chữ ký của 2 tân Phó Thủ tướng Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kỷ niệm 75 năm thiết lập quan hệ ngoại giao Việt Nam - Liên bang Nga",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TS Nguyễn Sĩ Dũng: \"Kết quả tinh gọn nhanh ngoài mức tưởng tượng\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ngãi: Cải tạo nhiều công trình hướng tới Kỷ niệm 80 năm Ngày Khởi nghĩa Ba Tơ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Thường trực Nguyễn Hòa Bình tiếp đoàn Ủy ban Đại lễ Vesak",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Cảnh Toàn làm Phó Bí thư Tỉnh ủy Lạng Sơn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sơn La điều động nhiều cán bộ lãnh đạo cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TP.HCM không để xảy ra tiêu cực trong bố trí, sắp xếp cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ủy ban Kiểm tra Trung ương được tăng thêm thành viên, từ 23 - 25 ủy viên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: Bổ sung những chủ trương lớn vào Dự thảo văn kiện trình Đại hội 14",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đẩy mạnh tổ chức các hoạt động giao lưu nhân dân Việt-Trung",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khánh Hòa đảm bảo hoạt động liên tục của các cơ quan sau sáp nhập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an tỉnh Thanh Hóa tiếp nhận 5 nhiệm vụ mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì cuộc làm việc với doanh nghiệp nhỏ và vừa Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiệm vụ, cơ cấu tổ chức của Bộ Dân tộc và Tôn giáo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Tỉnh ủy Tây Ninh làm Phó Trưởng Ban Tổ chức Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bà Rịa - Vũng Tàu điều động nhiều cán bộ chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Trọng Nghĩa thăm, chúc mừng Bệnh viện Quân y 120 ngày thầy thuốc VN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội:  Nghiên cứu sửa đổi quy định để tiếp tục sắp xếp bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội hội kiến Thủ tướng New Zealand Christopher Luxon",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bắc Ninh bổ nhiệm giám đốc 4 sở mới thành lập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đồng Nai bổ nhiệm lãnh đạo 9 sở, 16 cán bộ nghỉ chế độ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng thống Timor-Leste: “Việt Nam là hình mẫu và nguồn cảm hứng cho Timor-Leste”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Công Thương tinh gọn còn 22 đầu mối, quản lý 29 lĩnh vực",
+        "label": "Chính trị"
+    },
+    {
+        "title": "20 cán bộ diện Ban Thường vụ Tỉnh ủy Lào Cai quản lý nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Long An thành lập 5 sở mới, 172 người nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội dự Lễ kỷ niệm ngày Thầy thuốc Việt Nam tại Bệnh viện Hữu nghị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì Hội nghị Thường trực Chính phủ làm việc với DN Nhà nước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đồng Nai thành lập, tổ chức lại các sở, ngành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bà Rịa - Vũng Tàu kiện toàn nhân sự HĐND, thành lập 7 sở mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Đội quân tóc dài\" phát huy tinh thần yêu nước của phụ nữ Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đà Nẵng công bố quyết định về công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Thanh Nghị làm Phó Trưởng Ban chỉ đạo phòng chống tham nhũng TPHCM",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thách thức và cơ hội khi sáp nhập tỉnh, thành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bầu cử cấp ủy khóa mới trong Quân đội: Cơ cấu, độ tuổi có gì mới?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Chủ trương xem xét sáp nhập tỉnh là hợp thời, sát thực tế\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chức năng, nhiệm vụ và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng yêu cầu bộ máy hoạt động thông suốt, không bị gián đoạn khi sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội dự Lễ kỷ niệm 70 năm Ngày Thầy thuốc Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thanh Hóa sắp xếp tổ chức bộ máy và công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ninh công bố loạt quyết định về công tác cán bộ thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Tư pháp có nhiệm vụ, cơ cấu tổ chức mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Viện Hàn lâm Khoa học và Công nghệ Việt Nam giảm 14 đơn vị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Việt Nam và Thủ tướng New Zealand gặp gỡ báo chí",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường tiếp Thủ tướng New Zealand Christopher Luxon",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Dương công bố việc sắp xếp bộ máy và bổ nhiệm Ban Giám đốc các sở mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: Việt Nam ủng hộ New Zealand tăng cường hơn nữa quan hệ với ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Việt Nam, New Zealand chứng kiến Lễ ký nhiều văn kiện hợp tác",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tuyên bố chung về nâng cấp quan hệ Việt Nam - New Zealand lên Đối tác Chiến lược Toàn diện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Tuấn Anh giữ chức Phó Bí thư Thường trực Tỉnh ủy Hậu Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội Trần Thanh Mẫn ký ban hành 3 Nghị quyết",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ngãi công bố chuỗi hoạt động kỷ niệm 80 năm Ngày khởi nghĩa Ba Tơ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng bổ nhiệm Trợ lý Ủy viên Bộ Chính trị, Bộ trưởng Bộ Công an | VOV.VN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Malaysia: Việt Nam có vai trò then chốt trong sự phát triển của ASEAN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bổ sung quy định xử lý kỷ luật tổ chức đảng, đảng viên vi phạm về lãng phí",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Danh sách các thứ trưởng vừa được Thủ tướng điều động, bổ nhiệm sau khi sắp xếp bộ, ngành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính tiếp Thứ trưởng Bộ Ngoại giao Trung Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Triển khai kiểm tra các Ban Thường vụ Tỉnh ủy Sơn La, Điện Biên và Lai Châu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng điều động, bổ nhiệm 3 Thứ trưởng Bộ Xây dựng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường tiếp Thủ tướng Malaysia Anwar Ibrahim",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính chủ trì Lễ đón Thủ tướng New Zealand",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Toàn cảnh Lễ đón Thủ tướng New Zealand thăm chính thức Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ninh thành lập 7 Sở thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Lê Hải Bình giữ chức Thứ trưởng Bộ Văn hóa, Thể thao và Du lịch",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch Đồng Tháp giữ chức Bí thư Thành ủy Sa Đéc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trần Hữu Thế làm Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Phú Yên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bắc Giang bổ nhiệm hàng loạt lãnh đạo chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chức năng, nhiệm vụ, cơ cấu tổ chức của Viện Hàn lâm Khoa học xã hội Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trưởng Ban Dân vận Thành ủy làm Phó Chủ tịch UBND thành phố Huế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Dương bầu bổ sung Phó chủ tịch UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lễ kỷ niệm 50 năm giải phóng miền Nam phải thể hiện tầm vóc vĩ đại",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Thuận có tân Chủ tịch UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lãnh đạo nhiều sở, ngành ở Bình Phước nhận nhiệm vụ mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính dự phiên toàn thể cấp cao Diễn đàn Tương lai ASEAN 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Những điểm nhấn trong Phiên toàn thể cấp cao Diễn đàn Tương lai ASEAN 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường gặp mặt đoàn đại biểu tiêu biểu ngành Y tế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Đỗ Hữu Huy giữ chức Phó Bí thư Tỉnh ủy Bình Thuận",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Tỉnh đoàn Quảng Nam làm Bí thư Huyện ủy Hiệp Đức",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Nam: Phó Trưởng Ban Tổ chức Tỉnh ủy làm Bí thư Huyện ủy Duy Xuyên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam, Malaysia nhất trí tăng cường hợp tác giải quyết các vấn đề trên biển",
+        "label": "Chính trị"
+    },
+    {
+        "title": "45 lãnh đạo cấp vụ của NHNN xin nghỉ hưu, thôi việc từ ngày 1/3",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Ngọc Cảnh làm Phó Thống đốc Ngân hàng Nhà nước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quy định mới về chức năng, nhiệm vụ, cơ cấu tổ chức của Văn phòng Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thiết lập quan hệ với Trung Quốc - Liên Xô: 75 năm Việt Nam \"mở\" cánh cửa với thế giới | VOV.VN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kinh nghiệm quốc tế trong sắp xếp lại đơn vị hành chính địa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chiến thắng Đức Lập, trận thắng mở màn chiến dịch Tây Nguyên mùa xuân 1975",
+        "label": "Chính trị"
+    },
+    {
+        "title": "16 lãnh đạo công an cấp phòng và cấp huyện ở Yên Bái nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp Thủ tướng Malaysia Anwar Ibrahim",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng điều động, bổ nhiệm Thứ trưởng Bộ Giáo dục và Đào tạo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch tỉnh Tây Ninh giữ chức Thứ trưởng Bộ Tư pháp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giám đốc Công an Hà Nội giữ chức Thứ trưởng Bộ Dân tộc và Tôn giáo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thúc đẩy hợp tác toàn diện Việt Nam - Cuba",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Chính phủ phân công xử lý kiến nghị của Tỉnh ủy Bắc Ninh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính hội kiến Tổng thống Timor-Leste José Ramos-Horta",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Khoa học và Công nghệ chính thức có thêm 2 thứ trưởng sau hợp nhất",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cao Bằng công bố quyết định bổ nhiệm 38 giám đốc và phó giám đốc sở",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính tiếp Phó Thủ tướng Campuchia Prak Sokhonn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp nhà sáng lập và chủ tịch điều hành tập đoàn FedEx",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Chính phủ Phạm Minh Chính tiếp Phó Thủ tướng Lào Saleumsay Kommasith",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiều cơ hội hợp tác mới giữa TP.HCM và Liên bang Nga",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ninh Thuận điều động, bổ nhiệm nhiều cán bộ chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Lê Minh Hưng: Tới đây sẽ sắp xếp bộ máy chính quyền cấp tỉnh, huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại hội điểm đảng bộ cấp cơ sở ở Bình Định bầu trực tiếp bí thư",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Câu chuyện Việt Nam là niềm cảm hứng để chúng tôi kiên trì gia nhập ASEAN\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sau hợp nhất, Bộ Tài chính sẽ có 9 thứ trưởng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lãnh đạo ASEAN gửi đi thông điệp tự cường để ứng phó với thách thức",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại tá Vũ Văn Tấn giữ chức Cục trưởng C06, Bộ Công an",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phân công công tác của Thủ tướng và các Phó Thủ tướng Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Triển khai quyết định kiểm tra đối với Ban Thường vụ Tỉnh ủy Hưng Yên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố quyết định bổ nhiệm lãnh đạo sở ngành Hà Nội sau sắp xếp tinh gọn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thành lập Đảng bộ Cơ quan Ban Tuyên giáo và Dân vận Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng điều động, bổ nhiệm một số Thứ trưởng 7 Bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: ASEAN cần tư duy đột phá, chiến lược sắc bén và hành động quyết liệt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khai mạc Diễn đàn Tương lai ASEAN 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bỏ cấp huyện, quản lý thẳng từ cấp tỉnh xuống xã ra sao?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kon Tum chính thức giảm 8 cơ quan cấp tỉnh, 25 cơ quan cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Điện Biên điều động, bổ nhiệm hàng loạt cán bộ lãnh đạo chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp Tổng thống Timor-Leste",
+        "label": "Chính trị"
+    },
+    {
+        "title": "23 cán bộ chủ chốt Công an Bình Thuận xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiều lãnh đạo công an cấp phòng ở Bình Phước nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cần Thơ trao quyết định về công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam đề nghị Nhật Bản hỗ trợ thực hiện mục tiêu giảm phát thải khí nhà kính",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước làm trưởng đoàn kiểm tra đối với Ban Thường vụ Tỉnh ủy Quảng Ninh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Phòng chống lãng phí liên tục và không giới hạn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "17 cán bộ diện Ban Thường vụ Tỉnh uỷ Kon Tum quản lý xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: Lấy người bệnh làm trung tâm, hoàn thành tốt nhiệm vụ điều trị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nghệ An có 2 tân Phó Chủ tịch UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hà Nội có 15 sở mới sau sắp xếp tổ chức bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam kiên trì kêu gọi giải quyết xung đột ở Ukraine bằng biện pháp hòa bình",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì phiên họp thứ nhất Ban chỉ đạo Phòng, chống lãng phí",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chức năng, nhiệm vụ và cơ cấu tổ chức của Bộ Ngoại giao",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thông tấn xã Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đãi ngộ tương xứng để cán bộ nghỉ hưu: Tính vượt trội của cách mạng bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hôm nay, Thủ tướng New Zealand thăm chính thức Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính tiếp Ngoại trưởng Thái Lan Maris Sangiampongsa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thay đổi về chức năng, nhiệm vụ, cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phân công Thành viên Chính phủ làm việc với địa phương về sản xuất kinh doanh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Nội vụ sẽ có 22 đơn vị hành chính, sự nghiệp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Thanh Nghị làm Trưởng Ban Chỉ đạo giải quyết khiếu kiện đông người",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kỷ niệm 70 năm quan hệ Việt Nam-Indonesia: Đối tác vì sự tiến bộ và thịnh vượng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó CTN Võ Thị Ánh Xuân dự kỷ niệm 70 năm Ngày Thầy thuốc Việt Nam ở Thái Nguyên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Bùi Thanh Sơn tiếp Đại sứ Đức Helga Margarete",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cao Bằng thành lập 6 Sở thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Ngoại giao Bùi Thanh Sơn hội đàm với Bộ trưởng Ngoại giao Thái Lan",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quận Kiến An (TP Hải Phòng) có Bí thư, Chủ tịch UBND mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Malaysia đánh giá cao việc Việt Nam tổ chức Diễn đàn Tương lai ASEAN năm 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm làm việc với Ban Chính sách và Chiến lược Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Nhiệm vụ của Học viện Quân y rất nặng nề nhưng vô cùng vẻ vang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố Quyết định kiểm tra của Bộ Chính trị tại Đảng ủy các cơ quan đảng TƯ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố quyết định kiểm tra của Bộ Chính trị, Ban Bí thư đối với 3 địa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng bổ nhiệm tư lệnh và chính ủy Quân khu 3, 5, 7",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sau hợp nhất, Bộ Nội vụ giảm 13 đầu mối với tổng biên chế hơn 3.000 người",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Gia Lai sáp nhập nhiều đơn vị tại các tổ chức, đoàn thể cấp tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhân sự Lãnh đạo các đơn vị mới sau sắp xếp tại tỉnh Quảng Trị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phiên họp thứ nhất của Ban Chỉ đạo Cải cách tư pháp Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "17 cán bộ do Ban Thường vụ Tỉnh ủy Đồng Nai quản lý xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đồng Tháp thành lập đảng bộ trực thuộc Tỉnh uỷ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trà Vinh có tân Chủ nhiệm Uỷ ban Kiểm tra Tỉnh uỷ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Phấn đấu hoàn thành Bệnh viện Bạch Mai cơ sở 2 trong tháng 11/2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm làm việc với Ban Chính sách và Chiến lược Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm: Đối xử công bằng, không phân biệt “nhân thân” người bệnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cà Mau công bố quyết định thành lập các sở và bổ nhiệm cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Toàn văn phát biểu của Tổng Bí thư tại buổi làm việc với Bộ Y tế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng trao quyết định thành lập cho 15 Đảng bộ trực thuộc Đảng ủy Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tạp chí Cộng sản ra mắt ấn phẩm đặc biệt về khơi thông điểm nghẽn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "HĐND tỉnh Kiên Giang tán thành chủ trương thành lập huyện đảo Thổ Châu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm chủ trì buổi làm việc với Bộ Y tế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Rạch Giá giữ chức Phó Chủ tịch tỉnh Kiên Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chưa có nước nào nhiều đơn vị hành chính như ở Việt Nam?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhân sự được lựa chọn tham gia cấp ủy khóa tới phải thật sự \"liêm chính\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Giám đốc Sở GTVT Hải Phòng làm Chủ tịch UBND huyện đảo Cát Hải",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì cuộc họp về tuyến đường kết nối sân bay Gia Bình với Hà Nội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì Hội nghị công bố Đoàn Kiểm tra của Trung ương tại 3 địa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng dự Lễ kỷ niệm 30 năm thành lập Đại học Quốc gia TP. Hồ Chí Minh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại hội Chi bộ trên thềm lục địa phía Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng thể dự án đường sắt Lào Cai - Hà Nội - Hải Phòng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Vĩnh Long: Nhiều kinh nghiệm rút ra từ đại hội Đảng điểm của 2 đơn vị cấp xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố quyết định kiểm tra của Bộ Chính trị với Ban Thường vụ Tỉnh ủy Hậu Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Việt Nam - Lào - Campuchia họp triển khai kết luận cuộc gặp giữa người đứng đầu 3 Đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tăng cường đoàn kết, gia tăng hiệu quả hợp tác, kết nối Việt Nam - Lào - Campuchia",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sáp nhập còn bao nhiêu tỉnh thành là vừa?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "134 cán bộ một sở ở Gia Lai đăng ký nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ninh Bình quyết định hợp nhất, điều động, bổ nhiệm hàng loạt lãnh đạo và các sở",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố quyết định kiểm tra của Bộ Chính trị với Ban Thường vụ Tỉnh ủy Đồng Tháp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm trải nghiệm thực tế Tuyến Metro số 1 (Bến Thành - Suối Tiên)",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thành lập các Đảng bộ trực thuộc Thành ủy Huế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố Quyết định kiểm tra đối với Ban Thường vụ Tỉnh ủy Bến Tre",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thành lập đoàn kiểm tra với Ban Thường vụ Tỉnh ủy Quảng Ngãi, Bình Định, Phú Yên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Văn Quyết giữ chức Bí thư Tỉnh ủy Long An",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Thành Sinh được giới thiệu làm Phó Chủ tịch UBND tỉnh Lào Cai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chánh Văn phòng Bộ Nội vụ cùng 180 công chức viên chức xin nghỉ trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam - Nga tham vấn chính trị cấp Thứ trưởng Ngoại giao | VOV.VN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Truyền thông Thái Lan Kế hoạch tinh gọn bộ máy của Việt Nam là bước chuyển lớn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng New Zealand đến Việt Nam với một đoàn doanh nghiệp lớn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đảng bộ 15 huyện thị ở Long An rà soát các chỉ tiêu để tạo sự bứt phá năm 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khối Quốc hội giảm mạnh đầu mối sau sắp xếp tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bắc Kạn công bố Quyết định sắp xếp tổ chức bộ máy và công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ngoại trưởng Thái Lan thăm chính thức Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hải Phòng hoàn thiện sắp xếp tổ chức bộ máy sau sáp nhập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thi hành kỷ luật nguyên Chủ tịch UBND tỉnh Hà Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tiếp tục gìn giữ, vun đắp mối quan hệ Việt Nam – Campuchia ngày càng bền chặt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "10 lãnh đạo chủ chốt tỉnh Ninh Thuận xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "11 lãnh đạo, chỉ huy công an tỉnh Đắk Lắk nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trà Vinh công bố nghị quyết thành lập các cơ quan chuyên môn thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bạc Liêu công bố quyết định thành lập các cơ quan chuyên môn thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố quyết định kiểm tra đối với Ban Thường vụ Thành ủy Đà Nẵng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Ngoại giao ra thông cáo về đường cơ sở để tính chiều rộng lãnh hải trong Vịnh Bắc Bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đường cơ sở của Việt Nam trong Vịnh Bắc Bộ: Ý nghĩa và sự phù hợp với luật pháp quốc tế",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tuyên bố của Việt Nam về đường cơ sở để tính chiều rộng lãnh hải trong Vịnh Bắc Bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố và trao nghị quyết của Ủy ban Thường vụ Quốc hội về công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Uỷ ban Kiểm tra Tỉnh ủy Đồng Nai đề nghị kỷ luật 2 Phó Giám đốc sở",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quan hệ Việt Nam – Châu Âu: Những dấu ấn trong năm 2024 và triển vọng năm 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phú Yên: Công bố điều động, bổ nhiệm cán bộ chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hai phó giám đốc sở ra Côn Đảo đảm nhận chức danh chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: 10 nhiệm vụ, giải pháp trọng tâm cần triển khai ngay trong quý 2/2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "8 lãnh đạo diện Thường vụ Tỉnh ủy Ninh Bình quản lý xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "30 cán bộ thuộc Công an tỉnh Sóc Trăng nghỉ công tác, nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tây Ninh công bố bộ máy mới sau sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hơn 350 cán bộ ở Lai Châu đăng ký nghỉ hưu trước tuổi, nghỉ thôi việc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng New Zealand thăm chính thức Việt Nam vào tuần tới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tân Chủ tịch TP.HCM cam kết tận tâm, tận lực vì sự phát triển của thành phố",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính yêu cầu phân tích, đánh giá bối cảnh tình hình thời gi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam cam kết ủng hộ mạnh mẽ chủ nghĩa đa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "3 đòn tiến công chiến lược trong Tổng tiến công và nổi dậy mùa Xuân năm 1975",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bỏ cấp huyện, sáp nhập cấp tỉnh: Mô hình tiến bộ được nhiều nước áp dụng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an Bắc Kạn hoàn thiện sắp xếp, tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hải Dương: Bổ nhiệm lãnh đạo các sở ngành sau sáp nhập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "59 cán bộ lãnh đạo, chỉ huy của Công an TP Hà Nội tự nguyện nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Thành ủy TP. HCM: Thành phố đã bố trí lại \"đội hình\" cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hải Phòng: 1.378 tỷ đồng hỗ trợ cán bộ nghỉ việc trong sắp xếp tổ chức bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Định bổ nhiệm nhiều cán bộ các ban Đảng, sở, ngành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Yên Bái công bố các Nghị quyết, quyết định về tổ chức bộ máy và công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cán bộ TPHCM thôi việc do sắp xếp bộ máy được hỗ trợ gì?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sắp xếp tổ chức bộ máy ở Cần Thơ được triển khai khẩn trương, kịp thời",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TP. HCM trao quyết định bổ nhiệm nhân sự lãnh đạo cho 7 sở mới thành lập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trà Vinh thông qua nghị quyết về thành lập cơ quan chuyên môn thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường làm việc với Bộ Quốc phòng về tổ chức QĐND Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cần Thơ công bố thành lập cơ quan chuyên môn và bổ nhiệm cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Trị thành lập 2 đảng bộ và chỉ định nhân sự",
+        "label": "Chính trị"
+    },
+    {
+        "title": "An Giang điều động và bổ nhiệm hàng loạt cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Văn Được được bầu làm Chủ tịch UBND TP.HCM",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Quảng Ninh hội kiến Bí thư Khu ủy Quảng Tây",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khánh Hòa công bố quyết định thành lập 7 Sở và nhân sự chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhân sự mới tham gia Ủy ban, Đoàn Chủ tịch Ủy ban Trung ương MTTQ Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sơn La công bố thành lập 6 sở và nhân sự chủ chốt sau sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tiền Giang bổ nhiệm 5 Giám đốc, 27 Phó Giám đốc các sở sau sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Miễn nhiệm chức vụ Chủ tịch TP.HCM đối với ông Phan Văn Mãi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Đà Nẵng: Cán bộ không đáp ứng nhiệm vụ mới thì phân công nhiệm vụ khác",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Nam quyết định nhân sự lãnh đạo 6 sở",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Thuận bổ nhiệm giám đốc 6 sở mới thành lập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "6 giám đốc sở ở Quảng Nam nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Bình bổ nhiệm các Giám đốc sở mới sau khi sáp nhập, hợp nhất",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Thị ủy Việt Yên làm Trưởng Ban Tuyên giáo và Dân vận Tỉnh ủy Bắc Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đà Nẵng hỗ trợ thêm cho cán bộ nghỉ hưu trước tuổi, nghỉ việc do sắp xếp bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Miễn nhiệm chức vụ Chủ tịch tỉnh Đồng Tháp đối với ông Phạm Thiện Nghĩa",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bến Tre còn 12 sở sau sắp xếp, giảm nhiều cơ quan chuyên môn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bắc Giang bổ nhiệm 6 giám đốc sở và Chánh Văn phòng UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thành lập đoàn kiểm tra đối với Đảng ủy Quốc hội, Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hải Dương hợp nhất sở ngành, thông qua chính sách hỗ trợ cán bộ nghỉ việc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Nội vụ thống nhất phương án thành lập Sở Giao thông công chánh ở TP.HCM",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sau sắp xếp, Quảng Trị còn 14 cơ quan thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đà Nẵng công bố thành lập 5 sở và nhân sự chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trưởng Ban Tuyên giáo, Dân vận ở Bình Phước nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Các nước ủng hộ Việt Nam tổ chức Lễ ký Công ước LHQ về Tội phạm mạng tại Hà Nội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Điện Biên còn 14 sở, ban ngành sau tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sơn La thành lập 6 cơ quan chuyên môn thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cần Thơ xem xét thành lập các cơ quan chuyên môn trên cơ sở hợp nhất",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Thuận công bố các quyết định về công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TPHCM điều động, bổ nhiệm nhiều cán bộ chủ chốt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ngãi bổ nhiệm giám đốc các sở mới thành lập sau tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tinh giản bộ máy hành chính địa phương: Sự lựa chọn cấp thiết",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khánh Hòa thành lập nhiều sở ngành mới sau sắp xếp tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sóc Trăng công bố nghị quyết thành lập các sở và bổ nhiệm lãnh đạo sở",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Miễn nhiệm chức vụ Chủ tịch HĐND tỉnh Long An đối với ông Nguyễn Văn Được",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lâm Đồng bổ nhiệm lãnh đạo 6 sở mới thành lập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Đoàn Ngọc Hùng Anh được bầu làm Phó Chủ tịch HĐND TP. Đà Nẵng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Lắk công bố quyết định về sắp xếp tinh gọn bộ máy và công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trương Cảnh Tuyên giữ chức Chủ tịch thành phố Cần Thơ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phiên dịch viên - nhịp cầu làm sâu sắc thêm tình hữu nghị Việt - Nga",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kỳ họp HĐND Cần Thơ quyết nghị vấn đề cấp bách về tinh gọn tổ chức, bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quyết định đột phá và mang tính lịch sử của Quốc hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bà Lê Thị Thủy thôi giữ chức Bí thư Tỉnh ủy Hà Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Một Chi cục ở Nghệ An có 12 người đăng ký nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước tiếp Đại sứ, Đại biện các nước ASEAN và Timor-Leste tại Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Văn Được: “Tôi trước nay lái xuồng ba lá, nay điều hành tàu lớn\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường tiếp Bộ trưởng Ngoại giao Cuba Bruno Rodríguez Parrilla",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khai mạc hội nghị Đoàn Chủ tịch Ủy ban Trung ương MTTQ Việt Nam lần thứ 2, khóa X",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp Bộ trưởng Ngoại giao Cuba Bruno Rodríguez Parrilla",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng, Bộ trưởng Ngoại giao Bùi Thanh Sơn hội đàm Bộ trưởng Ngoại giao Cuba",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hậu Giang tổ chức lại các cơ quan chuyên môn thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Văn Được làm Phó Bí thư Thành ủy TP. HCM",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ngãi: 5 sở mới thành lập hoạt động từ ngày 1/3",
+        "label": "Chính trị"
+    },
+    {
+        "title": "10 cán bộ lãnh đạo Bình Phước tiên phong nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Bình: Tổ chức lại cơ quan chuyên môn, nhiều sở, ngành mới được thành lập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Xây dựng phương án sáp nhập, hợp nhất Báo đảng địa phương và Đài PT-TH địa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lạng Sơn: Công bố Nghị quyết thành lập các sở và công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thành lập Ban Tuyên giáo, Dân vận Tỉnh ủy cùng 2 Đảng bộ trực thuộc Tỉnh ủy Bến Tre",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kon Tum ra Nghị quyết thành lập 6 Sở thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Chính trị yêu cầu nghiên cứu định hướng sáp nhập một số đơn vị hành chính cấp tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ra mắt Ban Chấp hành, Ban Thường vụ Đảng ủy Trung ương Hội Nhà báo Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính sách đặc thù mới cho tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Nhiều lãnh đạo ủy ban của Quốc hội tự nguyện xuống cấp phó để sắp xếp bộ máy”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch UBND tỉnh Phú Yên làm Bí thư Đảng ủy UBND tỉnh nhiệm kỳ 2020 - 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Miễn trách nhiệm dân sự trong quá trình thực hiện nhiệm vụ khoa học, công nghệ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Thời điểm lịch sử phải có những quyết định lịch sử",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giám đốc Sở Tài chính làm Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Quảng Bình",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Nam: Thành lập 6 cơ quan thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "21 lãnh đạo cấp phòng Công an tỉnh Sơn La xin nghỉ hưu trước thời hạn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cho phép thí điểm 6 cơ chế, chính sách đặc thù, đặc biệt làm đường sắt đô thị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Lắk thành lập 6 sở mới, bắt đầu hoạt động từ 1/3",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Chốt” mục tiêu tăng trưởng 8% trở lên, hoàn thành nhiều dự án lớn năm 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cần có quy định về số lượng cấp phó trong sắp xếp tổ chức bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Tống Hoàng Khôi giữ chức Bí thư huyện ủy Phụng Hiệp, tỉnh Hậu Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội nhất trí chính sách đặc thù cho dự án điện hạt nhân Ninh Thuận",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Chính trị yêu cầu không kỷ luật những trường hợp sinh con thứ 3 trở lên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội thông qua dự án đường sắt Lào Cai-Hà Nội-Hải Phòng trị giá 8,4 tỷ USD",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội thông qua quy định mới trong Luật Ban hành văn bản quy phạm pháp luật",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội đồng ý giữ nguyên HĐND cấp quận, phường xã trên cả nước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sáng nay, Quốc hội biểu quyết nhiều vấn đề quan trọng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "50 năm giải phóng miền Nam: Bí mật nghe Radio trong nhà tù Côn Đảo",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tăng cường hợp tác giữa Hải Phòng và Khu tự trị Choang Quảng Tây (Trung Quốc)",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Phạm Minh Chính tiếp Bộ trưởng Ngoại giao Cuba",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Chính phủ Phạm Minh Chính tiếp Bí thư Khu ủy Quảng Tây (Trung Quốc)",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại sứ Phạm Thanh Bình chào xã giao Trưởng ban LLĐN Trung ương Trung Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Triển khai quyết định kiểm tra đối với Quân ủy Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Bộ Công an: Sắp xếp mô hình công an từ 4 cấp thành 3 cấp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Bảo đảm không trùng lắp nhiệm vụ các cơ quan của Quốc hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp Bí thư Khu ủy Quảng Tây (Trung Quốc) Trần Cương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Triển khai Nghị quyết của Quốc hội về cơ cấu tổ chức Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội đồng ý lập bộ mới sau sắp xếp, bổ sung Phó Thủ tướng Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước trao quyết định bổ nhiệm 2 phó thủ tướng và 4 bộ trưởng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sơn La công bố quyết định thành lập, hợp nhất các cơ quan, tổ chức đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội bầu 2 Phó Chủ tịch Quốc hội và Chủ nhiệm 5 ủy ban",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cơ cấu, tổ chức bộ máy của Bộ Nông nghiệp và Môi trường có những đầu mối nào?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Vĩnh Long công bố Ban lãnh đạo các sở mới sau khi sáp nhập",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội phê chuẩn 2 Phó Thủ tướng và 4 bộ trưởng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Danh sách thành viên Chính phủ nhiệm kỳ 2021-2026 sau khi sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lãnh đạo Quốc hội và các cơ quan của Quốc hội khóa XV",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội miễn nhiệm 2 Bộ trưởng và 1 Ủy viên Ủy ban Thường vụ Quốc hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đoàn Đại biểu Viện kiểm sát nhân dân tối cao thăm và làm việc tại Trung Quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tiểu sử Phó Thủ tướng Mai Văn Chính",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chân dung Phó Thủ tướng Nguyễn Chí Dũng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội phê chuẩn ông Mai Văn Chính làm Phó Thủ tướng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Nguyễn Chí Dũng làm Phó Thủ tướng Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quá trình công tác của Phó Chủ tịch Quốc hội Lê Minh Hoan",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chân dung Phó Chủ tịch Quốc hội Vũ Hồng Thanh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Lê Minh Hoan giữ chức Phó Chủ tịch Quốc hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Vũ Hồng Thanh được bầu làm Phó Chủ tịch Quốc hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội ban hành Nghị quyết về cơ cấu tổ chức của Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội bầu Phó Chủ tịch Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Vĩnh Long rút kinh nghiệm sau đại hội đại biểu đảng bộ cấp xã đầu tiên",
+        "label": "Chính trị"
+    },
+    {
+        "title": "22 cán bộ lãnh đạo Công an tỉnh Quảng Nam xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đồng Nai thành lập mới 2 đảng bộ, hợp nhất 2 ban đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hậu Giang công bố quyết định thành lập Đảng bộ các cơ quan đảng và UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bà Rịa – Vũng Tàu trao quyết định, công bố công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lâm Đồng thành lập 6 sở mới, bắt đầu hoạt động từ 1/3/2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "15 cán bộ Ban Thường vụ Tỉnh ủy Kon Tum quản lý xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Định giảm 50 đầu mối trong các sở trực thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội thông qua Luật Tổ chức Chính phủ (sửa đổi), có hiệu lực từ 1/3",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tinh gọn bộ máy ở Quảng Bình: Sẵn sàng tâm thế để hoạt động tốt hơn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sơn La giảm 5 sở, 26 đầu mối phòng và tương đương sau sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Trường hợp đặc biệt mà nghỉ quá sớm thì tổ chức cần xem xét\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "6 cán bộ thuộc Bộ Quốc phòng thôi giữ chức lãnh đạo, chờ nghỉ hưu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "11 cán bộ Công an tỉnh Ninh Thuận xin nghỉ hưu trước hạn tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng đề nghị Tập đoàn Yamato mở các trung tâm logistics tại Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam duy trì nhất quán lập trường khách quan trong xung đột Nga - Ukraine",
+        "label": "Chính trị"
+    },
+    {
+        "title": "TPHCM đề xuất thành lập Sở Giao thông công chánh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giảm mạnh biên chế sau sắp xếp ở các sở của tỉnh Cà Mau",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Vĩnh Long thống nhất thông qua các nghị quyết về sắp xếp, tinh gọn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "3 giám đốc sở ở Bình Định xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Nam: Giám đốc Sở Giao thông- Vận tải làm Bí thư Huyện uỷ Núi Thành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đồng Nai chuyển 49 tổ chức đảng khối doanh nghiệp về 3 địa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Dương có tân Bí thư, Phó Bí thư cấp thành phố",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giám đốc Sở NN&PTNT tỉnh Hậu Giang làm Bí thư Huyện uỷ Long Mỹ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sóc Trăng sắp xếp lại bộ máy của các cơ quan chuyên môn thuộc UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "13 lãnh đạo Công an cấp huyện, phòng ở Nam Định tự nguyện xin nghỉ trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "11 lãnh đạo công an Ninh Bình tự nguyện xin nghỉ công tác phục vụ tinh gọn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trình Quốc hội bổ sung hơn 38.000 tỷ đồng vốn điều lệ cho VEC",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Nam có tân Chánh văn phòng UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thống nhất sửa “kỳ họp bất thường” thành “kỳ họp không thường lệ”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ban Thường vụ Tỉnh ủy Long An công bố nhiều quyết định nhân sự",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đề xuất miễn trách nhiệm hình sự với người nghiên cứu khoa học",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch UBND huyện Đông Giang làm Giám đốc Sở Dân tộc và Tôn giáo Quảng Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Huỳnh Thành Đạt làm Phó Trưởng Ban Tuyên giáo và Dân vận Trung ương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Làm điện hạt nhân, Việt Nam không phải bắt đầu từ con số 0”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Nam: Chủ tịch UBND huyện Tây Giang làm Bí thư Huyện uỷ Thăng Bình",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại tá Nguyễn Quang Vinh làm Giám đốc Công an tỉnh Bắc Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hậu Giang công bố các Quyết định của Ban Thường vụ Tỉnh ủy về công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "ĐBQH đề xuất áp dụng giao thầu \"chìa khóa trao tay\" cho hoạt động KHCN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cuộc chiến bảo vệ biên giới phía Bắc - Nhắc lại lịch sử để tri ân quá khứ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tuần này, Quốc hội xem xét công tác nhân sự tại kỳ họp bất thường",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phát biểu ấn tượng của Tổng Bí thư Tô Lâm và Đại biểu Quốc hội tại kỳ họp bất thường",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội dự Chương trình biểu dương công nhân lao động tiêu biểu",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm ký ban hành quy định thi hành Điều lệ Đảng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "13 cán bộ Công an tỉnh Hậu Giang xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thận trọng, trách nhiệm- \"hiến kế\" cho tinh gọn bộ máy và tăng trưởng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khi cán bộ “nhường chỗ” vì sự phát triển chung",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Nội vụ đề xuất 5 chế độ vượt trội cho chuyên gia cao cấp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Điện mừng Quốc khánh nước Cộng hòa Litva",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cuộc chiến đấu bảo vệ biên giới phía Bắc và cuộc hội ngộ sau 3 thập kỷ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Trần Hồng Minh: Phải đẩy nhanh tiến độ dự án đường sắt | VOV.VN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại biểu Quốc hội đề xuất cơ chế dân “đổi nhà” để tiện sử dụng tuyến metro",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công bố Quyết định của Bộ Chính trị chuẩn y chức danh Bí thư Tỉnh ủy Lào Cai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Chính phủ sẽ báo cáo Trung ương xin nghị quyết riêng về phát triển kinh tế tư nhân\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tiền Giang giảm 4 cán bộ lãnh đạo, quản lý sau khi sắp xếp tổ chức bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại biểu Quốc hội: “Dự án năng lượng tái tạo đang đứng im gây lãng phí\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hải Phòng dự kiến hỗ trợ kinh phí với cán bộ nghỉ hưu theo Nghị định 178",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính phủ đề xuất chấp nhận rủi ro trong nghiên cứu khoa học và phát triển công nghệ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trao 46 quyết định điều động, bổ nhiệm cán bộ tại Bộ đội Biên phòng Tây Ninh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: Thế giới phát triển rồi mà cứ đi theo thì lúc nào cũng lũn cũn đi sau",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường dự Ngày hội sắc xuân trên mọi miền Tổ quốc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Muốn tăng trưởng 8% phải dựa vào lĩnh vực khoa học, công nghệ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng đề xuất 5 cơ chế đặc biệt để đột phá khoa học công nghệ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thời cơ vàng để tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổ chức HĐND quận, phường trên cả nước: Đại biểu Quốc hội đề nghị “cần đổi mới” | VOV.VN",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tập trung ổn định bộ máy, nâng cao hiệu quả hoạt động sau sáp nhập đơn vị hành chính",
+        "label": "Chính trị"
+    },
+    {
+        "title": "13 cán bộ lãnh đạo công an Đồng Nai nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Làm sâu sắc thêm tình bạn giữa người dân Ấn Độ và TP.HCM",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Thuận công bố quyết định thành lập 2 Đảng bộ trực thuộc Tỉnh ủy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kiên Giang chuyển giao Cổng Thông tin điện tử tỉnh về UBND tỉnh quản lý",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Trung Quốc đi rất nhanh bằng KHCN, điển hình là hiện tượng Deepseek\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Nếu không có giải pháp đột phá, metro sẽ tiếp tục là những dự án trên giấy\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp Chủ tịch tập đoàn SK, Hàn Quốc Chey Tae-won",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội: Tập trung các giải pháp về mục tiêu tăng trưởng đạt 8% trở lên năm 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Dừng bổ sung ủy viên ban thường vụ cấp tỉnh, huyện đến thời điểm tổ chức đại hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "ĐB Nguyễn Thiện Nhân: Cần có lộ trình tăng lương lên gấp đôi từ nay đến năm 2030",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: Khó cũng phải làm nhưng không có nghĩa làm liều",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Cần có cơ chế thúc đẩy kinh tế tư nhân",
+        "label": "Chính trị"
+    },
+    {
+        "title": "39 cán bộ khối Đảng ở Đắk Lắk xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "12 lãnh đạo tại TP Hạ Long xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Cán bộ, đảng viên giữ mình trong sạch, không xa hoa, lãng phí\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "ĐBQH đề xuất cơ chế đặc thù cho hoạt động tố tụng khi giải thể công an huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trần Huy Đức làm Phó Chánh án TAND cấp cao tại Đà Nẵng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lâm Đồng kết thúc hoạt động 10 tổ chức đảng, thành lập mới 2 đảng bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phân quyền không rõ ràng có thể dẫn đến sự chồng chéo giữa TƯ và địa phương",
+        "label": "Chính trị"
+    },
+    {
+        "title": "15 trưởng, phó phòng của Công an Đà Nẵng xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Bộ Nội vụ: Phân cấp phân quyền lần này thể hiện sự đột phá",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giám đốc Sở Y tế tỉnh Bà Rịa – Vũng Tàu bị cách chức",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính phủ trình Quốc hội cơ chế, chính sách đặc thù cho dự án điện hạt nhân",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quan hệ Việt Nam-Iran được xây dựng trên nền tảng của sự tôn trọng và tình hữu nghị",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Gần 400 cán bộ, viên chức ở Vĩnh Long nộp đơn xin nghỉ việc",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bắc Giang yêu cầu sở, ngành sau khi sáp nhập cần tập trung ngay vào nhiệm vụ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Lắk tinh gọn bộ máy, chính thức hoạt động theo mô hình mới từ 1/3",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đổi mới sáng tạo, “ăn nhau ở phương pháp làm, đừng nặng nề trình tự thủ tục”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Mặt trận Đoàn kết phát triển Tổ quốc Campuchia ​ca ngợi Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam sẵn sàng tham gia tìm giải pháp cho xung đột Nga - Ukraine",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Ngoại giao trả lời báo chí nước ngoài về sắp xếp cơ cấu lại tổ chức bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bà Phạm Thị Mai Tiên được phân công làm Trưởng Ban Nội chính Tỉnh ủy Tiền Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Tiếp tục đổi mới tư duy, hành động đáp ứng kỳ vọng của cử tri",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường tiếp Bộ trưởng Ngoại giao Lào Thongsavanh Phomvihane",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng Chính phủ Phạm Minh Chính tiếp Bộ trưởng Ngoại giao Lào",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quan điểm của Việt Nam về các quyết định của Hoa Kỳ với USAID",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm tiếp Bộ trưởng ngoại giao Lào Thongsavanh Phomvihane",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hà Nội có tân Trưởng Ban Nội chính Thành ủy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Chủ tịch UBND thành phố Hà Nội được phân công làm Trưởng Ban Tổ chức Thành ủy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trưởng Ban Tổ chức Thành ủy Hà Nội nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sơn La tổ chức thành công Đại hội điểm cấp xã",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Phan Mạnh Hùng làm Bí thư Thị ủy Ba Đồn (Quảng Bình)",
+        "label": "Chính trị"
+    },
+    {
+        "title": "23 cán bộ, người lao động ở Điện Biên tự nguyện xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Gần 300 cán bộ, công chức, viên chức tỉnh Vĩnh Phúc xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đề xuất 6 cơ chế đặc thù làm đường sắt đô thị tại Hà Nội, TP.HCM",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Ủy ban MTTQ Việt Nam tỉnh Quảng Bình làm Bí thư Thành ủy Đồng Hới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bí thư Thị ủy Ba Đồn làm Trưởng ban Ban Tuyên giáo và Dân vận Tỉnh ủy Quảng Bình",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cần chính sách vượt trội khuyến khích doanh nghiệp công nghệ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sở NN &PTNT Phú Yên có 118 người xin nghỉ trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lào Cai ra mắt 2 Đảng bộ trực thuộc Tỉnh ủy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính phủ chính thức trình Quốc hội dự án đường sắt Lào Cai - Hà Nội - Hải Phòng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ trưởng Bộ Nội vụ: \"Làm cả ngày đêm, thậm chí xuyên Tết để sửa luật\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Xem xét hoạt động của VKSND và TAND sau khi chấm dứt hoạt động công an cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nghệ An: Đảng bộ các cơ quan Đảng và Đảng bộ UBND tỉnh chính thức hoạt động",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư: “Không làm được thì phải mang sách đến mà học chứ”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Kỳ họp lịch sử quyết định những vấn đề quan trọng của đất nước\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Không nên quy định cứng số lượng và tên ủy ban của Quốc hội trong luật?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ươm mầm lý tưởng cách mạng trong các trường học ở Đắk Lắk",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chi cục trưởng Chi cục Thi hành án dân sự TP Đồng Hới bị xem xét kỷ luật",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Trần Sỹ Thanh là Bí thư Đảng ủy UBND thành phố Hà Nội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tạm đình chỉ nhiệm vụ đại biểu HĐND tỉnh Đồng Nai với Chủ tịch UBND huyện Long Thành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ngoại trưởng Nga Sergei Lavrov: Quan hệ Việt - Nga vượt qua mọi thách thức",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Thượng viện Campuchia Hun Sen ca ngợi công cuộc tinh gọn của Việt Nam",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiều đại biểu Quốc hội băn khoăn về tên gọi “kỳ họp bất thường”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Số lượng cấp phó phải đúng quy định sau 5 năm sắp xếp bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Hậu Giang có tân Chủ tịch HĐND tỉnh và Chủ tịch UBND tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Chính trị chuẩn y 4 Phó Chủ nhiệm Ủy ban Kiểm tra Trung ương khóa XIII",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng không quyết định vấn đề cụ thể thuộc trách nhiệm của bộ, ngành",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kiên Giang công bố các quyết định về tổ chức bộ máy và cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đại sứ quán Việt Nam tại Nhật Bản chuẩn bị xây dựng trụ sở mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính phủ đề xuất tổ chức HĐND các cấp, trừ trường hợp Quốc hội quy định riêng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch UBND tỉnh Bình Định yêu cầu giải quyết dứt điểm việc theo ngày",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phấn đấu đến 30/4/2025 hoàn thành Đề án thành lập TP.Bắc Ninh trực thuộc TƯ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội đưa ra 5 vấn đề trong sửa Luật ban hành văn bản quy phạm pháp luật",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nghệ An giảm 6 sở với hơn 40 phòng và đơn vị sự nghiệp sau sắp xếp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "13 lãnh đạo công an cấp phòng và cấp huyện ở Nghệ An nghỉ trước hạn tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "4 giám đốc sở ở Bắc Ninh, Bắc Giang xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước: “Tổ chức lại thì bộ máy mới phải tốt hơn, hiệu quả hơn bộ máy cũ\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng: \"Có việc cấp bách phải họp trong 1 tiếng, 1 đêm để quyết ngay\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam ủng hộ và thực hiện các cam kết đối với Công ước 2005 của UNESCO",
+        "label": "Chính trị"
+    },
+    {
+        "title": "9 lãnh đạo công an cấp phòng, cấp huyện tại Quảng Ninh xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Lắk điều chỉnh cơ cấu Ban thường vụ Tỉnh ủy, sắp xếp, tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội đề nghị Chính phủ theo dõi sát tình hình kinh tế, chính trị thế giới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Nguyễn Đình Việt giữ chức Trưởng Đoàn đại biểu Quốc hội tỉnh Sơn La",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kỳ họp bất thường quyết định những nội dung cấp bách phục vụ tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Luật Ban hành văn bản quy phạm pháp luật (sửa đổi) là “luật làm luật”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lãnh đạo tự nguyện nghỉ hưu sớm: Nhường \"ghế\" cho những người trẻ hơn",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Bùi Thanh Sơn gặp các Nhà Lãnh đạo UAE",
+        "label": "Chính trị"
+    },
+    {
+        "title": "“Quyết sách của Quốc hội tại kỳ họp bất thường sẽ tạo tiền đề rất quan trọng”",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quốc hội bắt đầu kỳ họp bất thường để xem xét nhiều nội dung cấp bách",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổ chức đoàn công tác Chính phủ làm việc với địa phương để thúc đẩy sản xuất kinh doanh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiều cán bộ ở Hải Phòng có nguyện vọng nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó Thủ tướng Bùi Thanh Sơn hội kiến Thủ tướng Lào Sonexay Siphandone",
+        "label": "Chính trị"
+    },
+    {
+        "title": "\"Quản lý đường sắt quốc gia, đô thị, chuyên dụng phải thống nhất\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Lãnh đạo Ban Tuyên giáo Tỉnh ủy Lạng Sơn nghỉ chế độ theo Nghị định 178",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thông cáo Chương trình, nội dung kỳ họp bất thường lần thứ 9, Quốc hội khóa XV",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Các bộ, ngành gửi đến Thủ tướng nhiều kiến nghị nhằm đưa KHCN bứt phá",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bộ Công an: Bảo đảm tuyệt đối an ninh Đại hội Đảng các cấp và các sự kiện lớn 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Đỗ Văn Chiến: \"Hạn chế thấp nhất vướng mắc có thể nảy sinh trong tinh gọn bộ máy\"",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thanh Hóa kết thúc hoạt động của 8 Đảng đoàn, 3 ban cán sự Đảng cấp tỉnh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "UBND tỉnh Gia Lai đề xuất kết thúc hoạt động 5 sở, thành lập 2 sở mới",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm: Chuẩn bị nhân sự không chỉ cho một kỳ đại hội",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng nêu 8 nhiệm vụ giải pháp đối với ngành ngân hàng để thúc đẩy tăng trưởng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ông Châu Ngọc Tuấn giữ chức Bí thư Đảng uỷ các cơ quan Đảng tỉnh Gia Lai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Văn phòng Chủ tịch nước gồm 6 đơn vị cấp vụ, không còn đơn vị cấp phòng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "3 cán bộ Tỉnh ủy Gia Lai xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Công an TP Hà Nội hoàn thành giai đoạn 1 trong tinh gọn công an cấp huyện",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng làm việc với các ngân hàng thương mại để thúc đẩy tăng trưởng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Khánh thành Tượng đài \"Bác Hồ với chiến sĩ Biên phòng\" tại Kiên Giang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Người đấu tranh chống tham nhũng, lãng phí được bảo vệ thế nào?",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Việt Nam bắt đầu nhiệm kỳ thành viên Hội đồng chấp hành UN Women 2025-2027",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sẽ trình Quốc hội phê chuẩn miễn nhiệm, bổ nhiệm một số thành viên Chính phủ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Gọi công dân nhập ngũ là để bảo vệ Tổ quốc, bảo vệ thành quả cách mạng",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Sáp nhập xã, phường, Bắc Ninh giải quyết nhân sự dôi dư thế nào",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiều cán bộ tình nguyện chuyển vị trí thấp, nghỉ hưu trước tuổi ở Lào Cai",
+        "label": "Chính trị"
+    },
+    {
+        "title": "5 Ủy viên Thường vụ Tỉnh ủy Bà Rịa-Vũng Tàu xin nghỉ công tác trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tiền Giang thành lập mới 2 Đảng bộ trực thuộc Tỉnh ủy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Cao Bằng công bố quyết định sắp xếp tổ chức bộ máy và công tác cán bộ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Phó chủ tịch thường trực Hậu Giang làm Phó Bí thư Thành ủy Cần Thơ",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì Phiên họp thứ 11 về sắp xếp tổ chức bộ máy cơ quan thanh tra",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng đề nghị các doanh nghiệp cùng triển khai các nhiệm vụ lớn của đất nước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Các bộ, cơ quan ngang bộ theo tổ chức bộ máy mới đi vào hoạt động từ 1/3/2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Trưởng ban Tuyên giáo Tỉnh ủy Quảng Bình xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "27 cán bộ ở Đắk Nông đủ điều kiện nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm: Lữ đoàn tên lửa 490 phải tinh, gọn, mạnh, cơ động, linh hoạt",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Kon Tum cơ bản hoàn thành việc sắp xếp tổ chức, tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chính phủ trình kịch bản tăng trưởng 8% trở lên năm 2025",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Đắk Nông công bố một loạt quyết định về sắp xếp tinh gọn bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch HĐND tỉnh giữ chức Bí thư Đảng ủy Các cơ quan Đảng tỉnh Đắk Nông",
+        "label": "Chính trị"
+    },
+    {
+        "title": "8 bí thư huyện ủy ở Quảng Nam xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Bình Dương công bố hàng loạt quyết định nhân sự sau khi sắp xếp tổ chức bộ máy",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Nhiều vụ trưởng của Ban Tuyên giáo và Dân vận Trung ương xin nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Ban Tuyên giáo và Dân vận TƯ công bố quyết định của Bộ Chính trị về nhân sự",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Thủ tướng chủ trì Hội nghị Thường trực Chính phủ gặp gỡ doanh nghiệp",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Tổng Bí thư thăm và làm việc với Lữ đoàn tên lửa 490, Binh chủng Pháo binh",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch nước Lương Cường làm việc với Văn phòng Chủ tịch nước",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giám đốc Sở Giao thông Vận tải Đà Nẵng làm Bí thư Huyện ủy Hòa Vang",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch Quốc hội: Đẩy mạnh tinh thần đổi mới tư duy trong xây dựng pháp luật",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Chủ tịch tỉnh Đồng Tháp nghỉ hưu trước tuổi",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Giám đốc Sở Xây dựng thành phố Đà Nẵng làm Bí thư Quận ủy Sơn Trà",
+        "label": "Chính trị"
+    },
+    {
+        "title": "Quảng Ninh sẵn sàng cho Đại hội Đảng bộ cấp cơ sở",
+        "label": "Chính trị"
+    }
+]
