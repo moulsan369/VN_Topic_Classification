@@ -1,0 +1,4002 @@
+[
+    {
+        "title": "Samsung “chốt hạ” danh sách thiết bị Galaxy nhận One UI 7 vào tháng 4",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "20 công ty công nghệ lớn của Mỹ cầu cứu Tổng thống Trump ứng phó với Australia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "ASUS có cửa hàng trải nghiệm đầu tiên tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Quyết định bước ngoặt vào Apple có thể khiến iPhone không còn như xưa",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông chủ Samsung thừa nhận công ty “đang ở bờ vực sống còn”",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tại sao Apple muốn tạo ra iPhone không có cổng?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhà máy sản xuất wafer đầu tiên của Việt Nam chuẩn bị khởi công xây dựng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google Gemini đối mặt với vấn đề vi phạm bản quyền",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người hâm mộ Samsung cuối cùng cũng có lịch cập nhật One UI 7",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google sắp thực hiện một thay đổi quan trọng với trợ lý ảo “Chị Google”",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hàng tỷ người dùng Gmail nhận cảnh báo khẩn từ FBI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc phát triển robot tìm kiếm và khai thác khoáng sản vũ trụ đầu tiên",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nền tảng HarmonyOS của Huawei vượt mặt iOS tại Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cuộc cách mạng trong điều trị bệnh suy tim với trái tim nhân tạo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc yêu cầu dán nhãn nội dung trực tuyến do AI tạo ra",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc đạt đột phá về pin hạt nhân tuổi thọ siêu bền",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "25 triệu thiết bị bị tấn công bởi mã độc ngân hàng nguy hiểm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta giúp người dùng dễ kiếm tiền hơn trên mạng xã hội Facebook",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người dùng máy tính Windows cần cập nhật hệ điều hành gấp",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mô hình AI “nhẹ như DeepSeek” của Google gây sốt khi ra mắt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Alibaba ra mắt mô hình AI mã nguồn mở phân tích cảm xúc con người qua video",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cảnh báo gấp tới người dùng máy hút mùi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hai nhà sản xuất TV Trung Quốc bị phát hiện lừa dối khách hàng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple phát hành iOS 18.3.2, người dùng iPhone cần cập nhật ngay",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "SpaceX sắp cung cấp dịch vụ Starlink tại Ấn Độ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iOS 19 có thể định nghĩa lại trải nghiệm iPhone sau 12 năm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Các ông lớn công nghệ đến Việt Nam thảo luận chiến lược AI và chất bán dẫn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI sẽ khiến những người được đào tạo bài bản trở nên vô dụng?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tỷ phú Elon Musk cho biết tấn công mạng khiến nền tảng X ngừng hoạt động",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thành phố Bắc Kinh Trung Quốc phổ cập giáo dục AI từ cấp tiểu học",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đẩy mạnh tuyên truyền \"Sản phẩm công nghệ số xuất sắc\" trên ứng dụng iHanoi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Du lịch không cần hộ chiếu và tương lai của an ninh sân bay toàn cầu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc đang có một DeepSeek thứ hai hay chỉ là sự cường điệu?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google cuối cùng đã giải quyết nỗi khó chịu của Gmail sau hơn 2 thập kỷ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google sắp buộc phải nói lời chia tay với trình duyệt web Chrome?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hãng máy in Brother bị tố giở chiêu trò “chống lại người tiêu dùng”",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lo ngại gia tăng trình trạng bạo lực ở trẻ em, Albania đóng cửa TikTok 1 năm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đại học Vũ Hán Trung Quốc đạt đột phá y học, dùng sợi ngó sen tái tạo xương",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khám phá smartphone màn hình gập Oppo Find N5",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khởi động cuộc thi thiết kế vi mạch cho đô thị thông minh lần 2",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Asus ra mắt laptop AI 16 inch mỏng nhẹ trang bị chip AMD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hàng loạt loa Samsung gặp sự cố sau khi cập nhật phần mềm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Keysight và Mavenir nâng cao khả năng kiểm thử tính di động và MIMO đa người dùng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Pura X chính là cái nhìn sớm về iPhone gập?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách giúp Apple tạo ra iPhone màn hình gập tốt nhất",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khám phá sức mạnh smartphone tầm trung Galaxy A56 5G",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xuất hiện hình ảnh đầu tiên của dòng Galaxy Tab S10 FE",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách smartwatch định hình lối sống lành mạnh cho người Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "‘Vua độ bền’ OPPO A5 khuấy đảo AEON Mall Hà Đông",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tương lai của smartphone với camera kép 200 MP",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách giúp tiết kiệm tiền khi mua Smart TV mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Siêu phẩm laptop gaming AI cao cấp nhất trang bị card đồ họa Nvidia GeForce RTX 5090",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách giúp Apple tạo ra iPhone màn hình gập tốt nhất",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "One UI 7 giúp người dùng Samsung thoát khỏi nỗi ám ảnh CAPTCHA",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "7 nhiệm vụ công nghệ của Hiệp hội Dữ liệu Quốc gia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bản cập nhật Windows 10 gây sự cố và làm chậm PC",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google giúp mọi người đều có thể sử dụng Gemini",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hiệp hội Dữ liệu Quốc gia ra mắt, đẩy mạnh phát triển kinh tế số",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Seagate sắp có ổ cứng giá rẻ HDD NVMe",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những thiết bị Galaxy vẫn đang xếp hàng chờ One UI 7",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Triều Tiên nắm giữ lượng Bitcoin lớn thứ ba thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "YouTube Premium giúp nghe nhạc 'chất' hơn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Samsung công bố thêm 15 thiết bị Galaxy nhận được One UI 7",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng Passwords của Apple chứa lỗ hổng nghiêm trọng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cảnh giác kẻ xấu lợi dụng AI ghép mặt nạn nhân để đe dọa tống tiền",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cảnh báo bộ sạc điện thoại kém chất lượng có thể gây tử vong",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khám phá sức mạnh smartphone tầm trung Galaxy A56 5G",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xuất hiện hình ảnh đầu tiên của dòng Galaxy Tab S10 FE",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 18 sẽ là cỗ máy chơi game mạnh mẽ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trình chặn quảng cáo 'không chốn dung thân' trên YouTube",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google tiếp tục nâng cấp trải nghiệm Gmail",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tương lai của smartphone với camera kép 200 MP",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "One UI 7 giúp người dùng Samsung thoát khỏi nỗi ám ảnh CAPTCHA",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bản cập nhật Windows 10 gây sự cố và làm chậm PC",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Triều Tiên nắm giữ lượng Bitcoin lớn thứ ba thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ công nhận bằng sáng chế của startup Việt về công nghệ blockchain",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khép lại vụ kiện lịch sử của ngành tiền số",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "7 nhiệm vụ công nghệ của Hiệp hội Dữ liệu Quốc gia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hiệp hội Dữ liệu Quốc gia ra mắt, đẩy mạnh phát triển kinh tế số",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI tối ưu hóa hiệu suất công việc cho doanh nghiệp Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách giúp tiết kiệm tiền khi mua Smart TV mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lý do không nên mua AirPods cũ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những lựa chọn khi cần nâng cấp RAM",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người hâm mộ 'hồi sinh' Counter-Strike 6 với bản remake CS: Legacy",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "D’Xavier đưa eSports Việt Nam thống trị PUBG MOBILE Đông Nam Á sau 3 năm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Counter-Strike 2 lập kỷ lục 1,8 triệu người chơi cùng lúc trên Steam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người đầu tiên trên thế giới có thể 'bật tôm'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người đầu tiên trên thế giới có thể 'bật tôm'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO OpenAI: Lập trình viên phải học dùng AI hoặc mất việc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO OpenAI: Lập trình viên phải học dùng AI hoặc mất việc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hàng nghìn iPhone bị đánh cắp trước hiên nhà thế nào",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hàng nghìn iPhone bị đánh cắp trước hiên nhà thế nào",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI đang 'kéo lùi sự tiến bộ của smartphone'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI đang 'kéo lùi sự tiến bộ của smartphone'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple lỗ hơn một tỷ USD mỗi năm để cạnh tranh Netflix",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple lỗ hơn một tỷ USD mỗi năm để cạnh tranh Netflix",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thiếu tướng Nguyễn Ngọc Cương: 'Chúng tôi muốn dữ liệu hóa nền kinh tế, xã hội'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thiếu tướng Nguyễn Ngọc Cương: 'Chúng tôi muốn dữ liệu hóa nền kinh tế, xã hội'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm: Hiệp hội Dữ liệu Quốc gia là ngôi nhà chung của hiệp sĩ số",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng Bí thư Tô Lâm: Hiệp hội Dữ liệu Quốc gia là ngôi nhà chung của hiệp sĩ số",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone gập có thể sử dụng bản lề kim loại lỏng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhiều người chơi thất vọng khi giá Pi xuống dưới một USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xiaomi Watch S4 - smartwatch 4 triệu đồng pin 15 ngày",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "FPT giới thiệu camera có nút bấm đa năng, đàm thoại chủ động",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Nvidia: 'Cách mạng robot hình người gần hơn tưởng tượng'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chó robot tập đi đứng nhờ 'bộ não AI'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Công chúa út' Huawei quảng bá smartphone gập dáng lạ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhà sáng lập hệ thống Mai Nguyên qua đời",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple phát triển đồng hồ màn hình gập",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Ma trận' TV công nghệ chấm lượng tử QLED",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người dùng Hà Nội trải nghiệm độ bền Oppo A5 Pro",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mở cổng bình chọn vòng Sơ loại Vietnam Game Awards 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone sắp mất vị thế 'quân bài chủ lực' với Foxconn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "OpenAI ra o1-Pro - mô hình AI lý luận đắt nhất",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Internet di động Việt Nam vào top 20 thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI đang tác động đến công việc của những ai?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ảnh AI - công cụ 'câu like' trên mạng xã hội",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Báo giấy đầu tiên thực hiện hoàn toàn bằng AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nvidia ra siêu chip AI Vera Rubin, nền tảng cho robot hình người",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google chi 32 tỷ USD thâu tóm công ty an ninh mạng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giá iPhone gập có thể từ 2.300 USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tốc độ 5G của các nhà mạng được công khai",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Số lập trình viên máy tính ở Mỹ giảm 'bằng năm 1980'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "7 cơ chế đặc biệt tạo đột phá phát triển khoa học công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cuộc thi Cosplay Contest 2025 mở cổng đăng ký",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Quái kiệt' Lê Viết Quốc: Làm AI cần sáng tạo, đừng vội vã chạy theo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xiaomi sắp bán điều hòa, tủ lạnh tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cuộc chiến khốc liệt nhằm lôi kéo nhân tài AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Startup chuyển đổi số bằng AI được đầu tư triệu USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ tự hành trong bãi đỗ xe thông minh hơn 3.000 chỗ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tác nhân AI khác gì chatbot AI tạo sinh hiện tại?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple cân nhắc tạo iPhone không cổng kết nối",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vietnam Game Awards 2025 thêm hai giải thưởng cho game Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng AI dịch chữ trong ảnh của kỹ sư Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek đang len lỏi trong đời sống thế nào",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'ByteDance sẽ bán TikTok tại Mỹ trước thời hạn 5/4'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Telegram rời Pháp",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tham vọng đưa AI vào cuộc sống của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Linh kiện iPhone 17 Pro 'lộ từ nhà máy'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Smartphone hỗ trợ NFC giá hơn hai triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cơ quan ở Việt Nam rút ngắn thời gian tìm tài liệu nhờ AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhiều người chơi 'than trời' khi tiền ảo Pi bị thu hồi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Căn cứ' đào tạo robot hình người lớn nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xiaomi Pad 7 - máy tính bảng tầm trung tích hợp AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google từ bỏ trợ lý ảo Assisstant",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khi nào máy tính lượng tử thành hiện thực?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google ra hai nền tảng chung cho robot",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thủ tướng đề xuất tập đoàn nước ngoài thúc đẩy chuyển giao công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xây dựng bộ dữ liệu tiếng Việt mã nguồn mở phục vụ AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Air siêu mỏng nhưng 'phần camera dày 9,5 mm'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bốn mô hình AI nổi bật của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Microsoft cảnh báo chiến dịch lừa đảo website đặt phòng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TCL, Hisense bị kiện liên quan đến TV QLED",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Đổi mới sáng tạo không phải lựa chọn mà là yếu tố sống còn'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Bybit: Chúng tôi được kỹ sư Việt 'hàng đầu thế giới' hỗ trợ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đề xuất luật hóa quy định bảo vệ dữ liệu vị trí",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Dọn dẹp bộ nhớ Zalo trên máy tính",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google ra mô hình AI Gemma 3 'siêu nhẹ'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trò chơi Pokemon Go thuộc về công ty Arab Saudi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Intel tìm được CEO mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam thuộc top đầu 'lạc quan về AI'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Rò rỉ tham vọng tỷ USD của chủ kênh YouTube lớn nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhân viên IT tạo 'công tắc' tắt hệ thống khi bị sa thải",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Các quốc gia chật vật tắt sóng 2G thế nào",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc ra mắt quỹ đổi mới sáng tạo 11 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Corsair K70 Pro TKL - bàn phím game tốc độ cao giá bốn triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TS Christopher Nguyễn: Việt Nam đứng trước cơ hội nghìn năm có một",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI Agent thay đổi cách tương tác trên Internet thế nào",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trang phục biểu tượng của các tỷ phú công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mô hình ba mẫu iPhone 17 lộ diện",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy A56 - cải tiến thiết kế, tích hợp AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lệnh ẩn trong chip Bluetooth trên hàng triệu thiết bị IoT",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hôm nay đóng cổng đề cử Vietnam Game Awards 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk: X bị tấn công mạng toàn cầu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Điều hòa có khả năng kiểm soát độ ẩm 65%",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy S25 Edge dự kiến giá 26 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Gói cước 5G tại Việt Nam thấp nhất 10.000 đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sự khác biệt giữa robot hình người Mỹ và Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những điểm mới của Vietnam Game Awards 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty được định giá 250 triệu USD nhờ robot đấm bóp",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg và vợ khoe kính thông minh mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Facebook sắp xóa video phát trực tiếp cũ tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ tối ưu hiệu quả lọc nước trên máy New eSpring",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Còn hai ngày đề cử Vietnam Game Awards 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thêm một AI của Trung Quốc gây sốt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Bybit: Pi Network nguy hiểm hơn meme coin",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kiếm chục nghìn USD từ game 'tạo bằng vài câu lệnh AI'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Số vụ tấn công bằng trojan ngân hàng trên smartphone tăng 196%",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Smartphone AI tầm trung siêu bền, giá 7 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk lắp PC chơi game tại văn phòng DOGE",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone Fold 'giá 2.000 USD nhưng không có FaceID'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Các mô hình AI nổi bật hiện nay",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xiaomi 15 - đối thủ của iPhone 16 Pro và Galaxy S25",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16 chật vật trở lại thị trường Indonesia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thiết bị 5G Việt Nam lần đầu dùng cho mạng nước ngoài",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người sẽ làm việc nhóm như thế nào",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhu cầu tuyển dụng lập trình viên lao dốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Binance bị 'bão' một sao vì chưa niêm yết Pi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nở rộ dịch vụ thuê robot hình người",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16e - giá thấp nhưng không dành cho số đông",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bộ Khoa học và Công nghệ công bố 130 quyết định về công tác tổ chức, cán bộ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chật vật tìm lại ví khi tiền ảo Pi có giá",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ giúp tăng tốc độ Internet cố định",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Oppo Find N5 - điện thoại 'gập mà như thanh'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Còn một tuần nhận đề cử Vietnam Game Awards 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc vượt Mỹ về số lượng nghiên cứu chip thế hệ mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ tìm cách giảm phụ thuộc GPS",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tòa án từ chối yêu cầu ngăn chặn OpenAI của Musk",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt sản phẩm 'tương lai' tại triển lãm di động lớn nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple ra Mac Studio giá cao nhất 368,5 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Winsler 70W Ultra Slim - củ sạc laptop mỏng nhẹ thương hiệu Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "MacBook Air 2025 ra mắt với chip M4, giá rẻ hơn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "M3 Ultra - chip xử lý mạnh nhất Apple từng chế tạo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Có nên mua máy giặt mini?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng DeepSeek bị 'hạ bệ' trên App Store Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khả năng tự đứng 'đáng nể' của robot hình người",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Air có thể mỏng 5,44 mm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Câu hỏi giúp nữ tướng AMD chèo lái công ty 162 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vietnam Game Awards 2025 nhận hơn 100 đề cử sau một tuần",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump: TSMC sẽ đầu tư 100 tỷ USD xây 5 nhà máy tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Asus phát triển laptop AI siêu nhẹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cặp ampli tiền tỷ của Devialet: ADH thế hệ mới, dát vàng 23K",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple ra iPad Air dùng chip M3 giá từ 17 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng Bí thư: 'Khẩn trương ban hành danh mục công nghệ chiến lược'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16e bán dưới giá niêm yết ở Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Phong cách DeepSeek 'tương đồng đáng kinh ngạc' với ChatGPT",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt smartphone bán trong tháng 3",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Tim Cook hé lộ thiết bị Apple 'Air' mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Valorant Master Bangkok 2025 phá kỷ lục lượng người xem mọi thời đại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ Việt hiện diện tại sự kiện lớn nhất ngành di động",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Internet di động Việt Nam tăng 15 bậc trên bảng xếp hạng thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk nói về khả năng AI tiêu diệt nhân loại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xiaomi 15 Ultra về Việt Nam, giá 35 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kênh HBO và Cinemax ngừng phát sóng trong gói HBO Go tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiện ích mới khi thanh toán không tiền mặt trên Galaxy S25 Series",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đẩy mạnh thương mại hóa 5G để thúc đẩy tăng trưởng kinh tế",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google phát triển chip cung cấp Internet qua ánh sáng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek lần đầu hé lộ tỷ suất lợi nhuận của mô hình AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những lưu ý khi chọn mua máy hút ẩm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người đang 'tiến hóa' đến đâu?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhà sáng lập Google: Nhân viên nên làm 60 giờ mỗi tuần",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Bộ Khoa học và Công nghệ sẽ là lực lượng nòng cốt hiện thực hóa Nghị quyết 57'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giải pháp tối ưu chip AI đưa sinh viên Việt vào chung kết thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nền tảng Skype dừng hoạt động",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mạng 5G Viettel có hơn 5,5 triệu người dùng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "MatePad 11.5 - tablet màn hình nhám giá 9 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sinh viên Việt đoạt giải xuất sắc tại cuộc thi châu Á của Huawei",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google Maps - cuộc cách mạng bản đồ số từ dự án trong phòng ngủ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xây dựng bản đồ doanh nghiệp công nghệ số Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giáo sư Nguyễn Đức Khương: Chúng tôi sẵn sàng giải những bài toán lớn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cần smartphone nhỏ gọn, chọn iPhone 16e hay Galaxy S25?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lumias - máy hút ẩm gia đình hiệu suất cao",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "FPT hợp tác GAM Esports phát triển thể thao điện tử",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt laptop AI hiệu năng cao",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những công việc đời thực đầu tiên của robot hình người",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách cài tiếng Việt cho Telegram",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đối thủ Trung Quốc của Starlink tăng tốc chạy đua Internet vệ tinh",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xiaomi ra 15 Ultra - smartphone có kính tiềm vọng 200 megapixel",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Facebook lại gặp sự cố",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TV Samsung bán chạy nhất toàn cầu 19 năm liên tiếp",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple sửa lỗi iPhone hiển thị 'Trump' thay cho 'phân biệt chủng tộc'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sau 5 tháng, Apple chuẩn bị được bán iPhone 16 tại Indonesia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO sàn Bybit tuyên chiến với nhóm hack 1,5 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek lan đến chợ bán buôn lớn nhất Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ngoại hình bốn phiên bản iPhone 17",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google bị kiện vì dùng AI tóm tắt kết quả tìm kiếm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bắt đầu nhận đề cử Vietnam Game Awards 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chiêu lừa 'tặng Pi' để lấy mã khóa ví rộ trở lại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Việt Nam cần hợp tác quốc tế để phát triển AI, bán dẫn'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cảnh báo mất tiền từ cuộc gọi 'không nói gì'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Smartphone gập ba của Samsung có thể có hai màn hình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple công bố đầu tư 500 tỷ USD tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhiều thiết bị bản giới hạn bán tại Samsung Official Store",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Lei Jun khoe ảnh Xiaomi 15 Ultra trước khi ra mắt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "1.000 chuyên gia, doanh nghiệp AI và bán dẫn sắp đến Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Được Musk khen làm toán giỏi, Grok 3 lại tự nhận giải sai",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thiết kế camera iPhone 17 Pro Max tiếp tục lộ diện",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tapo C530WS - camera AI ngoài trời giá 1,3 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông chủ ChatGPT có con",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kỹ sư gạo cội góp phần đưa Nvidia thành công ty hơn 3.000 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trải nghiệm Siri tiếng Việt trên iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI Grok 3 nói Elon Musk 'đáng bị tử hình'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Quả ngọt' từ tham vọng tự chủ công nghệ của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ở chung cư nên mua máy sấy thông hơi hay ngưng tụ?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những thông tin ít biết về iPhone 16e",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người dùng rút hơn 5,5 tỷ USD khỏi sàn Bybit sau khi bị hack",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trẻ em Australia dễ dàng vượt qua lệnh cấm mạng xã hội",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Pi Network lên tiếng về cáo buộc lừa đảo của CEO Bybit",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sau 14 năm, người dùng có thể thử nghiệm Siri tiếng Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Các 'tinh hoa công nghệ' Trung Quốc nói gì trong cuộc gặp ông Tập?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sàn tiền số từ chối niêm yết Pi bị hack gần 1,5 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone gập dự kiến có tỷ lệ màn hình khác biệt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Internet vệ tinh hoạt động thế nào",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giá Pi giảm hơn nửa, CEO sàn tiền số tiếp tục cảnh báo lừa đảo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sự trỗi dậy của 'sáu con rồng nhỏ Hàng Châu'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách dùng thử miễn phí 'AI thông minh nhất' của Elon Musk",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty ChatGPT thu hút 400 triệu người dùng hàng tuần",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Modem 5G tự thiết kế C1 giúp Apple giảm phụ thuộc Qualcomm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Oppo ra Find N5 - điện thoại gập mỏng nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giá tiền ảo Pi 'nhảy múa' sau khi mở mạng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'iPhone thời AI' bị khai tử",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Microsoft công bố đột phá mới về chip lượng tử",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng thay quần áo bằng AI gây sốt tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ảnh dựng iPhone 17 Pro với camera khác biệt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 lưu ý khi sử dụng chế độ hút ẩm trên điều hòa",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16e trình làng, giá từ 17 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Wang Xingxing - CEO 9x đứng sau công ty robot hình người Unitree",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Đảo Silicon' của Nhật Bản đến Việt Nam tìm nhân lực bán dẫn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiến sĩ Việt kể chuyện tham gia tạo 'AI thông minh nhất' của Musk",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Transsion - 'ông lớn' đứng thứ tư smartphone toàn cầu là ai?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5.000 vụ 'lừa đảo tình cảm' qua mạng từ nhóm Nigeria tới người dùng Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Smartphone gập ba Huawei giá gần 100 triệu đồng ngoài Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy S25+ và S25 Ultra gặp lỗi sạc nhanh",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bạn gái Elon Musk ca ngợi khi trải nghiệm Grok 3",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk ra chatbot AI 'thông minh nhất Trái Đất'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI Agent - bước tiếp theo của làn sóng AI thay thế lực lượng lao động",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Doanh nghiệp công nghệ 'cần được giao việc lớn'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sam Altman: ChatGPT 4o là công cụ tìm kiếm trên web tốt nhất",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng thống Argentina dính bê bối 'rút thảm' tiền số",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Có thể dùng máy hút ẩm làm máy sưởi?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lợi thế khi kết hợp camera AI với Wi-Fi 6",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đổ xô mua máy hút ẩm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vì sao Pi Network gây tranh cãi nhiều hơn tiền số khác?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hàn Quốc gỡ DeepSeek khỏi kho ứng dụng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Có nên chi vài triệu mua máy hút ẩm, dùng 1-2 tháng?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người - đấu trường mới của các ông lớn công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những cơ chế đặc thù 'cởi trói' cho khoa học công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nguồn cơn cuộc chiến mới giữa Elon Musk và Sam Altman",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hàng trăm nghìn mã tiền số được tạo mỗi tháng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kiểu dáng của iPhone 17 Air siêu mỏng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek 'đang tự phát triển chip AI'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thiết kế camera mới lạ của iPhone 17 Pro",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI giúp robot bật nhảy như Cristiano Ronaldo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Website DOGE của Elon Musk vừa ra đã bị hack",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thủ tướng: Chấp nhận trả 'học phí' khi nghiên cứu khoa học công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Khoa học mà đấu thầu giá rẻ chỉ đem về công nghệ lạc hậu'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Thu hút mọi nguồn lực phát triển khoa học công nghệ'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người dùng phải trả tiền để tạo tài khoản Zalo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "7 nâng cấp dự kiến trên iPhone 17",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy S25 Ultra vượt iPhone 16 Pro Max về hiệu năng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok quay trở lại các cửa hàng ứng dụng tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "OpenAI từ chối đề xuất mua lại của Elon Musk",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ bảo vệ sức khỏe của tủ lạnh âm tường Toshiba",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vconnex đưa 10.000 camera Việt sang thị trường châu Âu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sàn tiền số đồng loạt hủy niêm yết Pi Network 'ghi nợ'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhân viên nói Meta 'tàn nhẫn' khi sa thải hàng loạt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "VNG đóng game bài",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk ra điều kiện để ngừng mua OpenAI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk: Chatbot Grok 3 vượt trội mọi đối thủ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Siêu mỏng - xu hướng thị trường smartphone 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Qualcomm ra chip hỗ trợ AI tạo sinh cho smartphone tầm trung",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump có thể khơi mào làn sóng tích trữ màn hình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cục trưởng Lê Quang Tự Do: Vietnam GameVerse thay đổi định kiến ngành game Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kangaroo giới thiệu máy lọc nước hydrogen ion kiềm mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple ra sản phẩm mới ngày 19/2, có thể là iPhone SE 4",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kỹ sư xAI nghỉ việc vì không xóa bài xếp hạng Grok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Duolingo thông báo 'cú xanh đã chết'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chủ sàn giao dịch từ chối niêm yết Pi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cô gái Việt dùng AI dạy tiếng Anh cho hàng triệu người",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI nguồn mở là gì và sự khác biệt của DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt máy hút ẩm cho phòng cỡ nhỏ trong mùa nồm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Oppo vượt Samsung, dẫn đầu smartphone Đông Nam Á",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk trả 10 triệu USD dàn xếp vụ kiện khóa tài khoản Trump",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bị cấm bán, Apple xem xét sản xuất iPhone tại Indonesia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mất tiền vì cài app để nhận điểm giấy phép lái xe",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Oppo tiết lộ độ mỏng ngang điện thoại thanh của Find N5",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta cảnh báo lừa đảo ngày lễ Tình nhân",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "40.000 lượt mua Redmi Note 14 Series tại Thế Giới Di Động",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nguy cơ 'bơm xả' khi giá tiền ảo Pi 'ghi nợ' tăng đột biến",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nvidia: Việt Nam cần hàng trăm nghìn kỹ sư AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Pi Network thông báo 'mở mạng' ngày 20/2",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google muốn phát triển mô hình AI tiếng Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google cảnh báo 5 thủ đoạn lừa đảo trực tuyến tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ và châu Âu không tìm được tiếng nói chung về AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy S25 Edge siêu mỏng lộ cấu hình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cựu kỹ sư định mua bãi rác có ổ cứng Bitcoin 780 triệu USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sam Altman: Musk muốn gây rối, làm chậm OpenAI khi đề nghị mua",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta sa thải gần 4.000 nhân viên",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bí ẩn chủ sở hữu AI.com",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk đề nghị mua OpenAI với giá 97,4 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Facebook Messenger lỗi hơn một giờ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk đặt biệt danh cho CEO OpenAI là 'Scam Altman'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tình báo Hàn Quốc: DeepSeek thu thập dữ liệu cá nhân quá mức",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty ChatGPT sắp hoàn tất thiết kế chip riêng đầu tiên",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Oppo ra smartphone gập mỏng nhất thế giới ngày 20/2",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Game Con Đường Tơ Lụa mobile phát hành tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "6 kỹ sư phần mềm 'giỏi nhất thế giới' tại DOGE của Musk là ai?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chủ nhân Nobel Hóa học tại Google: 'DeepSeek bị phóng đại'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cựu kỹ sư Apple thừa nhận sai lầm vì tuồn tin mật cho báo chí",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt smartphone được đón chờ nửa đầu 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Có nên dùng chatbot AI khi chơi chứng khoán?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đổ xô mua card đồ họa Nvidia ở Tokyo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những nạn nhân của trại lừa đảo tiền số ở Đông Nam Á",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta sắp có đợt sa thải lớn tại nhiều quốc gia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple trình diễn nguyên mẫu đèn robot",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Oppo Find N5 lộ ảnh thiết kế",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk không muốn mua TikTok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek đạt hơn 22 triệu người dùng hàng ngày",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tại sao đồ gia dụng thông minh cần có hạn sử dụng?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple có thể công bố iPhone mới tuần tới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bill Gates: Intel đang lạc lối",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek 'lưu dữ liệu người dùng không mã hóa'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk tự xưng là 'người hỗ trợ kỹ thuật ở Nhà Trắng'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Snap giễu cợt, tự nhận là Phó chủ tịch sản phẩm Meta",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek 'chi phí rẻ, nhưng chưa hiệu quả'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy S25 Ultra thua iPhone 16 Pro Max khi đọ thời lượng pin",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 thông số dự kiến của iPhone gập",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mã độc đọc ảnh chụp màn hình iPhone lần đầu xuất hiện",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông chủ ChatGPT xác nhận phát triển thiết bị AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek đang bị cấm ở các quốc gia thế nào",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhà chung cư 80 m2 nên mua máy hút ẩm nào?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty AI cảnh báo ứng viên 'không dùng AI' khi xin việc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple phát triển công nghệ điều khiển thiết bị bằng iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek tạm ngừng nạp tiền API, sắp tăng giá dịch vụ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek và xu hướng nhân tài AI rời Mỹ về quê nhà Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google hủy lời hứa 'không dùng AI chế tạo vũ khí', nhân viên phản ứng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty mẹ TikTok ra AI tạo video chỉ từ một bức ảnh",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google ra mô hình Gemini với khả năng lập luận",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Huawei bán smartphone gập ba bên ngoài Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người dùng có thể tìm kiếm bằng ChatGPT không cần tài khoản",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Các ông lớn công nghệ Trung Quốc hồ hởi với DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bill Gates nói Elon Musk đôi khi 'xấu tính'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giải pháp xử lý sự cố, điều tra số cho doanh nghiệp từ VSEC",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bill Gates kể về thời mẫu giáo 'nổi loạn'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Andean Medjedovic - tài năng toán học bị truy nã vì hack dự án blockchain Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hai tuần khuấy đảo thế giới của DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hacker 22 tuổi đứng sau vụ trộm 48 triệu USD từ dự án blockchain Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 sản phẩm Apple có thể ra mắt tháng tới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google 'hạ thấp' mối đe dọa DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt laptop AI của ASUS giúp nâng hiệu suất công việc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhóm kỹ sư phần mềm 'siêu trẻ' tại DOGE của Musk",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông chủ ChatGPT nói sẽ không kiện DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nghị sĩ Mỹ đề xuất 'phạt tù 20 năm người tải DeepSeek'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple chỉ trích EU vì để ứng dụng khiêu dâm xuất hiện trên iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek được ví như 'Temu trong lĩnh vực AI'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple đang chọn nhà cung cấp màn hình cho iPhone gập",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đằng sau cơn sốt meme coin về người nổi tiếng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty ChatGPT ra tính năng Deep Research giữa cơn sốt DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek R1 bị lời nhắc độc hại 'qua mặt 100%'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bài toán 9,9 và 9,11 hot trở lại khi người dùng thử tài DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek 'tốn hơn tỷ USD thay vì 5,6 triệu USD cho AI'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Huawei chuẩn bị ra điện thoại 'đáng kinh ngạc'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple hủy dự án kính AR giá rẻ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tên gọi smartphone gập ba của Samsung",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt smartphone tầm trung, giá rẻ mới bán",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk dự định tạo ra 10.000 robot hình người năm 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhân viên Google đứng trước lựa chọn 'tự nguyện nghỉ việc'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông chủ ChatGPT thừa nhận 'ở phía sai của lịch sử' sau cơn sốt DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng độc hại bị phát hiện trên Google ngày càng tăng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Liên tiếp các cơ quan của Mỹ cấm DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt tai nghe True Wireless nổi bật",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg khen ngợi Elon Musk",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng thống Trump gặp CEO Nvidia 'bàn về DeepSeek'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty ChatGPT ra 'vũ khí giá rẻ' đối đầu DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Chưng cất' là gì khiến các công ty AI tiên phong lo ngại?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiền ảo Pi Network liên tiếp gia hạn KYC",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Bố già AI': Phản ứng của thị trường với DeepSeek là thiếu cơ sở",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Dân làng treo băng rôn mừng 'cha đẻ' DeepSeek về ăn Tết",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tim Cook: Apple Intelligence‌ giúp tăng doanh số iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bình luận về dự án AI 10 triệu USD của Sam Altman hot trở lại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tim Cook khen DeepSeek hiệu quả",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hạ viện Mỹ 'cấm nhân viên dùng DeepSeek'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nghi bị DeepSeek lợi dụng, công ty AI Mỹ vẫn khó ngăn chặn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nên mua sạc dự phòng có dây hay không dây",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek bị phát hiện lộ dữ liệu nhạy cảm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta trả 25 triệu USD dàn xếp vụ kiện khóa tài khoản của ông Trump",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Thần đồng AI' 29 tuổi thu hút sự chú ý tại DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Zuckerberg: Không vì DeepSeek mà dừng chi trăm tỷ USD cho AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bốn ứng dụng Việt được Apple gợi ý dịp Tết",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Alibaba ra mô hình AI 'vượt trội DeepSeek'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "OpenAI nói có dấu hiệu DeepSeek dùng mô hình của họ để đào tạo AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người Trung Quốc ăn mừng thành công của DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tốc độ Internet Việt Nam lần đầu vào top 40 thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người của Trung Quốc múa khăn trong gala năm mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek ra mô hình AI tạo ảnh 'tốt hơn của OpenAI'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tại sao DeepSeek gây chấn động thế giới?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Điểm mới trong bức tranh công nghệ tại Việt Nam 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt tính năng mới trên iOS 18.3",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng DeepSeek được tải nhiều nhất tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Liang Wenfeng - người đứng sau sự trỗi dậy của DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hoài nghi về chi phí 'siêu rẻ' của AI Trung Quốc DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump: DeepSeek Trung Quốc là 'lời cảnh tỉnh' cho công ty Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Các ông lớn AI đang 'hoảng sợ' thế nào trước DeepSeek Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đòn áp thuế của ông Trump có thể làm tăng giá smartphone, laptop",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tai nghe AirPods có thể tích hợp camera",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Oppo hé lộ smartphone gập mỏng nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk xem xét ứng dụng blockchain trong chính phủ Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Bố già AI' tại Meta ca ngợi DeepSeek của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 'giá rẻ' lộ diện qua video",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek - mô hình AI Trung Quốc đe dọa sự thống trị của Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bill Gates nghĩ gì về Elon Musk?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump sẽ quyết định số phận TikTok trong 30 ngày tới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chuyên gia Mỹ: TikTok gây tác hại nghiêm trọng hơn Douyin",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "7 cách cải thiện tốc độ wifi tại nhà dịp Tết",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách Samsung xây dựng AI 'mô phỏng con người' trên Galaxy S25 Series",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty phần mềm gửi nhầm ảnh vịt trong email sa thải",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Microsoft và Oracle có thể tiếp quản TikTok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Musk bắt đầu thử nghiệm Internet vệ tinh cho smartphone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung tâm dữ liệu đầu tiên của dự án AI 500 tỷ USD đang được xây",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta chi 65 tỷ USD xây trung tâm dữ liệu AI khổng lồ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vệ sinh smartphone đúng cách để đón Tết",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách Galaxy S25 'trò chuyện' với người dùng Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bill Gates viết code khi đi bộ đường dài thời niên thiếu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Phản ứng của Nokia khi iPhone đầu tiên ra mắt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lời kêu gọi tẩy chay Facebook, Instagram 'không nhiều tác dụng'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Smartphone cài sẵn TikTok được rao bán 50.000 USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khu công nghệ cao TP HCM muốn thu hút trung tâm R&D",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Có nên mua máy chiếu giá rẻ dưới 5 triệu đồng?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Giải mã' siêu dự án AI 500 tỷ USD được ông Trump công bố",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump hé lộ lý do Musk không tham gia siêu dự án AI 500 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Samsung xác nhận ra smartphone gập ba trong năm nay",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ảnh dựng iPhone giá rẻ với Dynamic Island",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bình Định làm ứng dụng tra cứu dữ liệu đất đai, quy hoạch",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Moreh hợp tác Tenstorrent phát triển hạ tầng AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Camera AI bộ nhớ trong đầu tiên mở bán tại FPT Shop",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mặt sau của iPhone 17 Air lộ diện",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk, Sam Altman đấu khẩu vì dự án AI 500 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Samsung hé lộ Galaxy S25 Edge siêu mỏng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy S25 Ultra - thay đổi thiết kế, nâng cấp AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TSMC chuẩn bị chuyển sang sản xuất chip 1,6 nm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Laptop 17 triệu đồng có card đồ họa rời",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "ByteDance có thể chi 12 tỷ USD cho AI năm nay",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ảnh thực tế Galaxy S25 và S25+",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "LG ra mắt hai mẫu máy lọc không khí cho gia đình hiện đại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hà Lan xem xét đầu tư vào chip bán dẫn tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kênh VTV trở lại các nền tảng truyền hình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Cần áp dụng công nghệ, chuyển đổi số trong bảo vệ biên giới cửa khẩu'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam dự kiến hoàn thành trung tâm dữ liệu quốc gia tháng 6/2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hai robot hình người Trung Quốc gây sốt khi di chuyển tự nhiên",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Huawei trở lại ngôi đầu smartphone Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump nói 'sẵn sàng để Musk mua TikTok nếu muốn'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những chiêu lừa online nở rộ dịp gần Tết",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nên chọn TV nào dễ dùng cho người già?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Màn hình gaming OLED 480 Hz giá dưới 30 triệu từ LG",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "LG dẫn đầu thị trường lọc khí Việt Nam 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI Việt so khả năng xử lý ngôn ngữ tiếng Việt với GPT-4, Llama",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tỷ phú công nghệ đứng trước thành viên nội các tại lễ nhậm chức của ông Trump",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Musk chia sẻ lại bức ảnh ông từng xóa 9 năm trước",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "EpiqVision Mini EF-22N - máy chiếu laser mini thay thế TV",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng thống Trump ký sắc lệnh hoãn cấm TikTok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mô phỏng độ mỏng của iPhone 17 Air",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lo ngại về quyền riêng tư khi AI được đưa vào Word, Gmail",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tủ lạnh âm tường giúp Toshiba đạt giải thiết kế ấn tượng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TV LG nhận cú đúp giải thưởng tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok hoạt động trở lại ở Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt TV kích thước lớn giảm giá mạnh trước Tết",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Toàn cảnh Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ra mắt Liên minh ứng phó, khắc phục sự cố an ninh mạng quốc gia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Instagram ra tính năng giống TikTok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vision AI - bộ trí tuệ nhân tạo cho màn hình, TV của Samsung",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hà Nam dẫn đầu về tỷ lệ hồ sơ trực tuyến toàn trình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "VTV nêu lý do kênh biến mất trên một số nền tảng truyền hình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok chính thức ngừng hoạt động tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kênh VTV biến mất trên một số nền tảng truyền hình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Kỳ lân Perplexity AI 'muốn sáp nhập với TikTok' tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Memecoin Trump đạt tỷ USD sau chưa đầy một ngày",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump nói xem xét gia hạn cho TikTok thêm 90 ngày",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giới sáng tạo nội dung chạy đua kiếm tiền trước khi TikTok 'tắt máy'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nền tảng tích điểm LynkiD nhận giải vàng công nghệ số",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 sẽ có hệ thống tản nhiệt buồng hơi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok tuyên bố chuẩn bị 'tắt máy ở Mỹ'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mô hình hé lộ thiết kế thực của iPhone giá rẻ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trường Đại học FPT bắt tay trường top đầu tại thủ phủ bán dẫn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đạo diễn Mỹ dùng iPhone 16 Pro quay MV cho Wren Evans",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "FBI điều tra công ty của các cựu giám đốc Huawei",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tính năng AI mới trên Galaxy S25",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người giúp nam giới 'bớt cô đơn'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TCL C755 - TV Mini LED 85 inch giá tốt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Điểm yếu của iPhone 17 Air và Galaxy S25 Slim",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Độ mỏng của Galaxy S25 Slim",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Phong cách Japandi tối giản trên sản phẩm Toshiba",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Doanh nghiệp Việt dự định chi trăm triệu USD xây dựng mạng blockchain",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "VnExpress xếp thứ 37 về website tin tức, truyền thông toàn cầu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Danh sách độc giả trúng thưởng tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hai mạng xã hội Trung Quốc bất ngờ 'hot' tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Samsung Galaxy S25 giá dự kiến từ 23,9 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Honor X9c - smartphone siêu bền giá 9,5 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt máy chiếu dưới 7 triệu đồng chơi Tết",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tin giả 'quét QR bị mất sạch tiền sau 5 giây' gây hoang mang",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng Bí thư: Phát triển công nghệ là căn cơ để xây dựng nền kinh tế tự chủ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chuyên mục Số Hóa đổi tên thành Công Nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhiều kênh truyền hình tại Việt Nam ngừng hoạt động",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Bản nâng cấp' của Mark Zuckerberg",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple sắp sản xuất chip iPhone đầu tiên tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta sa thải khoảng 3.600 nhân viên 'hiệu suất kém'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "OpenAI ra trợ lý ảo cạnh tranh Siri, Google Assistant",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Gia dụng thông minh - động lực tăng trưởng của Toshiba",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Yếu tố giúp Toshiba nhận giải máy lọc nước xuất sắc 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "200.000 việc làm ngân hàng có thể bị cắt giảm vì AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nguy cơ bị kiểm soát điện thoại từ số tài khoản ngân hàng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ thắt chặt kiểm soát chip AI trên toàn cầu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nvidia 'đang chuẩn bị cho thời kỳ AI không dùng GPU'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Điện thoại Trung Quốc 'gặm nhấm' thị phần Apple, Samsung",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "10 cách kéo dài thời lượng pin iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Yếu tố giúp điều hòa Panasonic đạt giải tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người 'có độ hoàn thiện cao' của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đại học ngừng dạy vì bị tấn công mạng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhóm kỹ sư FPT viết phần mềm camera cạnh tranh thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple sắp mất thêm thị phần smartphone ở Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Yếu tố giúp điều hòa Comfee đạt giải Sản phẩm tôi yêu 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot Ecovacs ứng dụng AI tăng hiệu quả hút bụi, lau nhà",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chiến lược địa phương hóa trên hệ sinh thái gia dụng Toshiba",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cơ hội kiếm nghìn USD khi bán video cho công ty AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông chủ Facebook: 'AI có thể đảm nhiệm việc của kỹ sư cấp trung'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tài liệu hé lộ cách Microsoft 'không thể để mất' kỹ sư AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt smartphone độc lạ tại CES 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cuộc đấu AI bên ngoài dinh thự Tổng thống Hàn Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI sẽ tồn tại cùng con người trong lực lượng lao động",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Máy lọc nước Sunhouse nhận giải tiên phong công nghệ tại Tech Awards",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg chê Apple 'dựa vào iPhone gần 20 năm'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk: AI đã dùng cạn dữ liệu tri thức của loài người",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Biden lên án Meta vì giảm kiểm duyệt Facebook",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bùng nổ xu hướng đưa AI lên thiết bị gia dụng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Redmi Note 14 Pro - smartphone tầm trung đầu tiên của Xiaomi có AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "7 sản phẩm xuất sắc tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Yếu tố giúp Lumias nhận giải máy hút ẩm cao cấp được yêu thích",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Aqua nhận giải máy giặt được yêu thích nhất tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt ứng dụng AI trên máy rửa chén Comfee",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt nền tảng, ứng dụng xuất sắc tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "8 thương hiệu xuất sắc tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Công nghệ giúp Việt Nam góp phần thay đổi thế giới'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hơn 1.000 lượt khách tham dự Tech Awards 2024 phiên sáng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cách Mỹ dùng camera AI ngăn cháy rừng lan rộng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nghi vấn smartphone nghe lén quay trở lại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "10 quốc gia đứng đầu thế giới về sức mạnh tính toán",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những hoạt động nổi bật tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chiều nay diễn ra lễ trao giải Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "GfK: Giá trị thị trường gia dụng đạt 43.000 tỷ đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Smartphone 10 triệu đồng của Xiaomi, Oppo, Samsung đọ sức",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xu hướng công nghệ nhìn từ CES 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông chủ ChatGPT bị em gái kiện",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Indonesia: Một tỷ USD không đủ gỡ lệnh cấm bán iPhone 16",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhân viên Meta chỉ trích quyết định giảm kiểm duyệt Facebook",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tech Awards 2024 bàn về sự hiện diện của AI trong cuộc sống",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Robot hình người Trung Quốc phô diễn động tác khó",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Smartphone gập ba của Samsung 'ra mắt năm nay, giá siêu cao'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ngày mai diễn ra Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TCL ra mắt robot AI và bộ sưu tập TV mới tại CES 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iOS 18.2.1 chưa khắc phục triệt để lỗi bộ gõ tiếng Việt trên iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cha đẻ Ethereum đề xuất 'nút tạm dừng AI toàn cầu\"",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nvidia ra siêu máy tính AI cá nhân giá 3.000 USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông chủ ChatGPT: 'Nhân viên ảo chuẩn bị gia nhập lực lượng lao động'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg giảm kiểm duyệt Facebook, Instagram",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 có thể quay lại thiết kế bo tròn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt trải nghiệm tại triển lãm Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt thiết bị thu hút sự chú ý trước thềm CES 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người chơi tiền ảo Pi thêm một năm chờ đợi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Dell 'khai tử' thương hiệu XPS, Inspiron",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy S25 ra mắt ngày 23/1",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple ngầm xác nhận Matter là chuẩn chung của smarthome",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple Intelligence 'ngốn' bao nhiêu dung lượng?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tính năng AI lần đầu xuất hiện trên Redmi Note 14 Series",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Oppo đưa loạt tính năng AI lên smartphone tầm trung Reno13",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lý do TV Sony Bravia phù hợp giải trí dịp Tết",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chính phủ dự kiến phân loại cụ thể tài sản mã hóa để quản lý",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone bỗng dưng xuất hiện giọng nói 'lạ'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Nvidia 'sợ' phát biểu trước đám đông",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bốn câu chuyện cho thấy AI đang biến người dùng thành 'chuyên gia'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "FreeBuds Pro 4 - tai nghe TWS đầu tiên với thương hiệu Huawei Sound",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ laser mới mở đường cho thế hệ quang khắc 'vượt EUV'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt quà tổng trị giá gần 100 triệu đồng cho người tham dự Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Samsung và Apple gia nhập cuộc đua tăng dung lượng pin điện thoại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ví AI như điện, Microsoft chi 80 tỷ USD cho trí tuệ nhân tạo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ezviz H80x - camera an ninh 4K ghi hình đêm có màu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhiều người dùng Indonesia tiếp tục chờ đợi để mua iPhone 16",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Samsung 'sắp cho Apple thấy sức mạnh của AI trên điện thoại'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Độ mỏng của iPhone 17 Air",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Doanh số iPhone sụt giảm bốn tháng liên tiếp tại Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhiều iPhone gặp lỗi camera, FaceID sau khi lên iOS 18.2",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Smartphone nổi bật ra mắt tháng 1",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Reno 13 5G - điện thoại AI tiếng Việt đầu tiên của Oppo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Điều hòa có chỉ số tiết kiệm điện cao nhất Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc muốn gia tăng hạn chế xuất khẩu công nghệ pin điện",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Galaxy S25 không kịp bán trước Tết tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nữ kỹ sư hé lộ việc 'chăm' cỗ máy sản xuất chip 170 triệu USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng theo dõi phạt nguội được tải về nhiều nhất Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple giảm giá iPhone 16 tại Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Indonesia vẫn chờ Apple hoàn tất thỏa thuận tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 chưa thể dùng chip 2 nm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tài khoản Elon Musk đổi về tên cũ khiến giá meme coin 'chia ba'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 'giá rẻ' mới có thể mang tên 16E",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Amee, Dương Domic biểu diễn tại Tech Awards 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Nhà máy AI chiến tranh' gây tranh cãi của Israel",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI có thể là 'thảm họa' khi tư vấn y tế",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 nâng cấp dự kiến trên iPhone 'giá rẻ'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk đổi tên tài khoản, khiến meme coin tăng 1.600%",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI 'siêu thông minh' của Trung Quốc tự nhận là ChatGPT",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bên trong phòng thử âm thanh bí mật cho iPhone 16 Pro",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Xu hướng công nghệ 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bộ Tài chính Mỹ nói bị hacker Trung Quốc đánh cắp tài liệu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những thông tin không nên nói với chatbot AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Có nên mua laptop AI?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trải nghiệm TV không dây LG OLED evo M4 giá 170 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng Bí thư: 'Khoa học, công nghệ, đổi mới sáng tạo là con đường để bứt phá'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lừa đảo tiền số Squid Game rộ trở lại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Điện thoại chủ lực của các hãng tại Việt Nam năm 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung tâm dữ liệu AI có thể gây vấn đề về điện tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chiếc loa chủ lực giá 3.000 USD của Devialet",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "MobiFone phát triển ứng dụng AI cho người dùng Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Điểm nhấn trên TV màn hình lớn của TCL",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Video ý tưởng iPhone 17 Slim siêu mỏng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hạ tầng số, công nghệ số Việt Nam đặt mục tiêu top 50 toàn cầu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bên trong 'cửa ngõ tới Sao Hỏa' của Elon Musk",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỗi nhà đồng sáng lập Wiz 'bỏ túi' 3 tỷ USD khi về Google",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Mai Triều Nguyên, chủ hệ thống cửa hàng di động Mai Nguyên qua đời",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thương vụ 32 tỷ USD của Google: Phép thử chính quyền Trump 2.0",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tự động hóa mặt đất: Công nghệ đột phá trong vận tải quân sự",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Màn trình diễn gây 'sốc' của robot hình người nặng 150kg",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple loay hoay trên con đường phát triển AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiết lộ thêm về thiết kế kính kết hợp kim loại của iPhone 17 Pro",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "‘Huyền thoại’ Lý Khai Phục: Sẽ chỉ có 3 mô hình AI Trung Quốc sống sót",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người đứng đầu phải chịu trách nhiệm về công việc bị chậm, kém",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ tên lửa giúp tàu trinh sát Mỹ có sức mạnh tấn công như trực thăng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc thử nghiệm công nghệ điều khiển UAV tự động hoàn toàn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hình ảnh rò rỉ xác nhận iPhone 17 Pro và 17 Air sẽ có thiết kế hoàn toàn mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Nvidia: Ngành công nghiệp AI đạt bước ngoặt, định giá 50.000 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "EU ra đòn với Apple, Google, phớt lờ đe dọa từ ông Trump",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ bí ẩn giúp Nga thiết kế cửa sổ kính cho tàu ngầm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trấn áp Big Tech, EU đối mặt nguy cơ bị ông Trump áp thuế bổ sung",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ: Công nghệ tiêu diệt mục tiêu không cần tên lửa đánh chặn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Samsung lại xin lỗi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tầm nhìn của Jack Ma giúp Alibaba ‘tái sinh’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ba người thông minh nhất Elon Musk từng gặp",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cả 4 mẫu iPhone 17 sẽ được nâng cấp tính năng rất được mong đợi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Siêu trí tuệ Việt ở Google: Phát triển công nghệ phải tạo ra người xuất chúng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google chi 32 tỷ USD 'tiền tươi' mua lại startup an ninh mạng Israel",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Startup Việt gọi vốn thành công 1 triệu USD để phát triển AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nguyên Thứ trưởng Bộ KH&CN làm Chủ tịch Hội Thông tin KH&CN Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc không cần silicon vẫn có thể chế tạo chip",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone gập của Apple dự báo giá 'sốc', gấp đôi iPhone 16 Pro Max",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thấy gì từ các hiện tượng công nghệ Trung Quốc như DeepSeek, Manus?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sinh viên 21 tuổi phát triển phần mềm qua mặt Meta và TikTok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hé lộ giá bán iPhone 17 Air, không 'sốc' như đồn đoán",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chủ tịch Samsung kêu gọi 'làm hoặc chết'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Một công nghệ đỉnh cao sắp có mặt trên iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek: Từ báu vật quốc gia đến cảnh 'chim lồng, cá chậu’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lại xuất hiện mô hình iPhone 17, xác nhận 2 tính năng quan trọng trên 17 Air",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhà sáng lập DeepSeek Liang Wenfeng: Người hùng mới của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "12 tính năng trên iPhone 17 Air sắp ra mắt: Sức hút siêu mỏng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AirPods sẽ có tính năng phiên dịch trực tiếp",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam đang đứng trước thời cơ vàng để phát triển công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tân CEO Intel nhận lương 1 triệu USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Đế chế' BlackBerry sụp đổ, bài học nào cho các công ty công nghệ?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ẩn số 'iPhone 17 Ultra', siêu phẩm mới của Apple?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Manus thách thức AI Mỹ, X của Elon Musk bị tấn công",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng Skype: Từ huyền thoại tiên phong đến bờ vực lụi tàn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam muốn \"cùng làm, cùng hưởng, cùng thắng\" với các tập đoàn bán dẫn, AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thêm nhiều đại diện Việt Nam tham gia Liên minh AI thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI kém ấn tượng khiến Apple gặp thách thức lớn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hình ảnh hé lộ thiết kế mới của iPhone 17 Pro Max",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple chuẩn bị cho đợt giới thiệu sản phẩm lớn nhất từ trước đến nay",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Acer Predator Helios 18 AI - Siêu phẩm laptop gaming AI có card đồ họa Nvidia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiết lộ điểm dày nhất của iPhone 17 Air siêu mỏng sắp ra mắt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Pro Max sẽ dùng công nghệ đặc biệt để tăng hiệu suất",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google ra mắt Gemma 3: Mô hình AI mã nguồn mở với hiệu suất vượt trội",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iOS 19 sẽ là 'cuộc cách mạng lớn nhất' cho iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công bố Sáng kiến ươm tạo, phát triển doanh nghiệp khởi nghiệp lĩnh vực bán dẫn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "UAV cảm tử mới giúp Ukraine tăng cường sức mạnh trong chiến tranh drone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Pro Max sẽ có nâng cấp lớn, hé lộ về iPhone 17 Ultra",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Doanh nghiệp Việt Nam cung cấp giải pháp AI cho tập đoàn dầu khí Indonesia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AI sẽ khiến những người được đào tạo bài bản trở nên vô dụng?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Các 'gã khổng lồ' xe hơi tái đầu tư vào động cơ đốt trong",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Pro mô hình lộ diện trong video, 17 Air khoe độ mỏng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trang phục biểu tượng của 7 tỷ phú công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Samsung ứng dụng AI, biến ‘mỗi giờ xem TV đều là giờ Trái đất’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mua Xiaomi 15 series giá ưu đãi tại CellphoneS",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mạng xã hội X và chatbot Grok của Elon Musk gặp sự cố trên toàn cầu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Pro Max và 17 Air vừa lộ diện mạo thực tế",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những siêu phẩm Apple đáng mong đợi ra mắt mùa hè",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Pro Max sẽ có thay đổi thiết kế quan trọng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tác chiến điện tử kết hợp AI: Tương lai chiến tranh ‘câm lặng’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thêm một AI Trung Quốc ‘gây sốt’ không kém DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ lập kho dự trữ Bitcoin chiến lược, TSMC công bố khoản đầu tư 100 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Nữ hoàng bán dẫn’ Lisa Su: Lãnh đạo không phải bẩm sinh mà phải qua rèn giũa",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc đẩy mạnh nỗ lực độc lập công nghệ, giảm lệ thuộc phương Tây",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Air siêu mỏng vẫn có pin 'khủng'",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nghiên cứu bán dẫn của Trung Quốc dẫn trước Mỹ cả lượng lẫn chất",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đồng sáng lập Apple chỉ trích cách tiếp cận ‘búa tạ’ của bộ DOGE",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thêm một con chip Make in Viet Nam tại triển lãm công nghệ lớn nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "AWS liên tục cải tiến, hỗ trợ doanh nghiệp ứng dụng AI để đổi mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tại sao Xiaomi làm được ô tô điện, còn Apple thì không?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Pro Max sắp ra mắt sẽ có nhiều nâng cấp đột phá",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đồng sáng lập Google kêu gọi nhân viên làm việc 60 tiếng một tuần",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Microsoft đóng cửa Skype từ tháng 5",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sàn tiền số bị trộm 1,5 tỷ USD, Grok 3 tạo ra 'cơn sốt' toàn cầu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Singapore buộc tội 3 người nghi buôn lậu chip Nvidia sang Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhiều người Hàn Quốc tìm chatbot AI để tâm sự, tư vấn tâm lý",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vì sao các hãng công nghệ chạy đua 'đổ tiền tấn' vào điện hạt nhân?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google bị thất sủng tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta đuổi việc nhân viên ‘tuồn’ tin ra bên ngoài",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thêm xác nhận về một nâng cấp siêu 'hot' của iPhone 17 Pro",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16e chưa lên kệ, đã xuất hiện thông tin về iPhone 17e",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16e giá 599 USD, có đáng đồng tiền bát gạo?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Jack Ma trở lại tiết lộ gì về tham vọng công nghệ của Trung Quốc?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giữa muôn trùng AI, nên chọn công cụ nào?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những bác sĩ tiên phong ứng dụng trí tuệ nhân tạo",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sự bùng nổ của AI sẽ tạo ra đột phá cho chẩn đoán, điều trị ung thư",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiết lộ 'nóng' về iPhone gập của Apple",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump làm Tổng thống: Cả nghìn tỷ USD cam kết đầu tư vào Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 nâng cấp vượt trội trên iPhone 16e khiến người dùng iPhone 15 thèm muốn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc: DeepSeek không phải để cạnh tranh với AI Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Pro được nâng cấp vượt trội về quay video",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trí tuệ nhân tạo đang được sử dụng trong y tế như thế nào?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giảm thuế để thúc đẩy khoa học công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "'Đổ xô' sử dụng Grok sau khi Grok 3 ra mắt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt iPhone 17 với thiết kế camera hoàn toàn mới lộ diện",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple đầu tư 500 tỷ USD, tuyển 20.000 vị trí 'lấy lòng' ông Trump?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiết lộ mới nhất về camera trên siêu phẩm iPhone 17 Pro Max",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "14 lý do nên chờ iPhone 17",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc thống trị ngành công nghiệp robot hình người",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lý Khai Phục: AI có thể đưa Mỹ và Trung Quốc đến gần nhau hơn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 và iPhone 17 Air sẽ được trang bị màn hình cao cấp?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple đang khiến dòng iPhone Pro trở nên vô nghĩa?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO 9x được phát biểu trước ông Tập Cận Bình là ai?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek sắp chia sẻ kho lưu trữ mã AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hỗ trợ tài chính cho đột phá công nghệ: Trọng tâm của Trung Quốc năm 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ra mắt AI đánh bại ChatGPT, tiết lộ dự án cáp quang biển dài nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Jensen Huang: Nhà đầu tư sai lầm khi bán tháo cổ phiếu Nvidia vì DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Giới tinh hoa công nghệ Trung Quốc nói gì tại hội nghị ông Tập Cận Bình chủ trì?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple còn loạt sản phẩm đáng mong đợi ra mắt mùa xuân này",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Châu Âu có nguy cơ trở thành ‘viện bảo tàng’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Asian Telecom Awards 2025: CMC Telecom nhận giải Sáng kiến An ninh mạng của năm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16e vs iPhone 14: Có nên nâng cấp ngay?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta tăng thưởng cho lãnh đạo sau khi sa thải 5% nhân viên",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những 'huyền thoại' nào của Apple bị khai tử sau khi iPhone 16e ra mắt?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lãnh đạo ngành chip duy nhất có mặt tại hội nghị của ông Tập Cận Bình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "6 lĩnh vực lương cao ngất cho dân công nghệ bị sa thải",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cơ chế đột phá giúp “cởi trói” cho các nhà khoa học Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Microsoft phát minh loại vật liệu mới trong chip lượng tử",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16e so iPhone 16: 25 khác biệt đáng chú ý giữa hai thiết bị",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek là lý do ‘ông lớn’ này mở mã nguồn mô hình AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Diện mạo iPhone 17 Pro: 'Lột xác' hoàn toàn?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tại sao iPhone SE 4 sẽ giữ giá tốt hơn các iPhone SE thế hệ trước?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "‘Đảo Silicon’ Nhật Bản mở cửa chào đón nhân tài bán dẫn Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Air siêu mỏng lộ diện trong video mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc cản bước Apple dịch chuyển chuỗi cung ứng sang Ấn Độ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk ra mắt ‘AI thông minh nhất Trái đất’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Tập Cận Bình gặp gỡ Jack Ma và lãnh đạo công nghệ Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc huy động sức mạnh 'cả hệ thống chính trị' để tự chủ công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hệ lụy từ làn sóng sa thải càn quét làng công nghệ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ AI thúc đẩy sáng tạo số trong ngành y tế",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam tổ chức đào tạo chuyên gia thiết kế chip bán dẫn",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những công ty AI Trung Quốc đáng chú ý không kém DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "3 siêu phẩm của Apple ra mắt tuần này, iPhone SE 4 sáng giá nhất",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bộ DOGE của Elon Musk bắt đầu đuổi việc nhân viên CNTT liên bang",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Intel trước tương lai ‘chia năm xẻ bảy’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk sắp ra chatbot siêu thông minh, nhà lập pháp Mỹ muốn cấm DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lộ diện mẫu iPhone 17 Air đẹp lung linh ngoài đời thực",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Baidu, OpenAI cung cấp chatbot miễn phí trước nguy cơ từ DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Tập Cận Bình sắp chủ trì hội nghị chuyên đề, Jack Ma sẽ tham dự?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg và Meta bị nói ‘tàn nhẫn’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiết lộ thông tin 'nóng' về iPhone 17 Pro sắp ra mắt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công nghệ AI của Samsung: Biến TV thành tác phẩm nghệ thuật",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk sắp ra chatbot ‘thông minh đến đáng sợ’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Dấu hiệu iPhone SE 4 sẽ sớm được công bố",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek tiếp động lực để Trung Quốc giảm lệ thuộc Nvidia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam là cầu nối chiến lược giữa ASEAN và EU",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google dùng AI xác định tuổi người dùng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 mẫu iPhone mới đáng mong đợi ra mắt năm nay",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "YouTube 20 tuổi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone bán ở Trung Quốc dùng tính năng AI của Alibaba",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone SE 4 sẽ ra mắt vào tuần tới?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "6 nhà khoa học Việt Nam giành Giải thưởng sáng tạo châu Á",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam tham gia Hội nghị Thượng đỉnh AI Paris",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chiến lược ‘rung cây dọa khỉ’ của Trung Quốc trong thương chiến Mỹ - Trung",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sam Altman: Tôi không nghĩ Elon Musk là người hạnh phúc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hội nghị thượng đỉnh AI Paris: Chúng ta không nên sợ sự đổi mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 16 màu mới có thể sắp ra mắt?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk muốn mua OpenAI giá 97,4 tỷ USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek tuyên bố kim chi của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "CEO Google DeepMind: DeepSeek tốt nhưng không đáng kể",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bộ DOGE của Elon Musk gồm những ai, đang làm những gì?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "3 thông tin đáng quan tâm nhất về iPhone SE 4 trước ngày ra mắt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk không dùng TikTok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek trở thành ‘tiêu chuẩn’ trong ngành công nghệ Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek thay đổi định kiến về AI Trung Quốc như thế nào?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Quá khứ bất hảo của nhân tài 19 tuổi được Elon Musk trọng dụng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Big Tech trên bàn cờ thương chiến Mỹ - Trung",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone SE 4 ra mắt tuần tới có gì đáng mong đợi?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc điều tra Google, Hàn Quốc cấm DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple phải cung cấp toàn bộ quyền truy cập dữ liệu đám mây người dùng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg đến Nhà Trắng bàn về vai trò công nghệ Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek rốt ráo tuyển dụng nhân tài AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hé lộ bí mật tạo mô hình AI lý luận siêu rẻ chưa đến 1,5 triệu đồng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hàn Quốc cấm DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google chính thức phát hành Gemini 2.0 cạnh tranh AI Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Model AI mới của ByteDance nổi rần rần nhờ khả năng ‘deepfake’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple, Intel lọt tầm ngắm của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google ‘bật đèn xanh’ sử dụng AI phát triển vũ khí và công nghệ giám sát",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Loạt tên tuổi AI hàng đầu thế giới tranh luận về DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "OpenAI chưa có kế hoạch kiện DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc điều tra Google",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chủ tịch Samsung trắng án",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bộ Hiệu quả chính phủ của Elon Musk làm việc 120 tiếng/tuần",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lãnh đạo Bộ TT&TT tặng sách dịp đầu xuân năm mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chính phủ Mỹ đang bị ‘Musk hóa’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone màn hình gập sắp ra mắt?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Air: Siêu mỏng và đáng mong đợi",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chiến dịch truyền thông Trung Quốc nhấn chìm cổ phiếu công nghệ Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Về nhà ăn Tết, nhà sáng lập DeepSeek được chào đón như người hùng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hành trình tìm kiếm siêu vật liệu tàng hình",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hai dự báo sai lầm về giới công nghệ của Bill Gates",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "PewDiePie, YouTuber tuổi Tỵ thành công nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 dự báo đối với công nghệ AI năm Ất Tỵ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhật ký một ngày làm việc với AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam trước \"cuộc chạy đua Marathon\" phát triển ngành bán dẫn của thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tương lai AI 2025: Các khoản đầu tư khổng lồ và thách thức về mặt đạo đức",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek bị chặn tại một quốc gia",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Bất chấp DeepSeek, Zuckerberg thề chi hàng trăm tỷ USD cho AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Đột phá công nghệ tàng hình giúp drone né tránh radar lên đến 90%",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Changpeng Zhao, cựu CEO tuổi Tỵ của sàn giao dịch tiền số lớn nhất thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek không thể làm AI tương đương OpenAI với 5 triệu USD",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Sony xướng tên CEO mới đầu năm Ất Tỵ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ nghi DeepSeek đánh cắp tài sản sở hữu trí tuệ của OpenAI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tương lai AI 2025: Cuộc đua công nghệ và thay đổi chính sách",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 tính năng AI 'hot' sắp ra mắt trên thiết bị Apple",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chân dung Koo Kwang Mo, Chủ tịch tuổi Tỵ của đế chế LG",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Liang Wenfeng, gã mọt sách với kiểu tóc kinh khủng đứng sau DeepSeek là ai?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump lên tiếng về \"cơn địa chấn\" DeepSeek",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vượt chông gai, đưa tiếng Việt ‘ngạo nghễ’ lên Galaxy AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mất 600 tỷ USD vì DeepSeek, Nvidia vẫn khen ngợi startup Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "DeepSeek ra mắt bộ công cụ tạo ảnh AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Silicon Valley nói gì về DeepSeek, đối thủ đáng gờm nhất của ChatGPT?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nvidia mất 600 tỷ USD vì startup DeepSeek của Trung Quốc",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "6 mẹo giúp có những bức ảnh đẹp ngày Tết chụp bằng iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Hệ điều hành One UI 7 mở ra ‘chương mới’ cho AI di động và tương tác smartphone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Các sản phẩm đáng chú ý tại sự kiện Galaxy Unpacked 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Siêu dự án hạ tầng AI 500 tỷ USD ‘thổi lửa’ vào cuộc chiến công nghệ Mỹ - Trung",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vì sao ngành công nghệ lại ‘làm thân’ với chính quyền Trump 2.0?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Việt Nam công bố sáng kiến thành phố AI đầu tiên trên thế giới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump thu hồi sắc lệnh hành pháp của ông Biden về AI, xe điện",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump ký sắc lệnh hoãn lệnh cấm TikTok 75 ngày",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chính quyền Donald Trump nhiệm kỳ 2: Gam màu sáng - tối công nghệ toàn cầu",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ứng dụng Mail trên MacOS nhận nâng cấp tính năng AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Dấu hiệu iPhone SE 4 sắp được trình làng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Google Maps sắp bước sang tuổi 20",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok ‘hồi sinh’ tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok ra sao khi bị các nước cấm cửa?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok ngừng hoạt động tại Mỹ, Apple, Google xóa ứng dụng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 sẽ được trang bị công nghệ tản nhiệt mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Khởi đầu khiêm tốn của CEO Apple Tim Cook",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Độ mỏng gây 'choáng váng' của iPhone 17 Air",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone SE 4 sắp ra mắt có thiết kế khác biệt với bản tiền nhiệm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok căng thẳng tột độ trước giờ G, Mỹ áp lệnh cấm xuất khẩu chip AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Make in Vietnam 2024: LynkiD nhận Giải Vàng ‘Sản Phẩm Công Nghệ Tiềm Năng’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Make In Vietnam 2024: IOE - sản phẩm công nghệ số xuất sắc lĩnh vực giáo dục",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg ‘đánh rơi’ 60 tỷ USD trong 5 năm",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg đổ lỗi cho cựu tướng vì chính sách không thuận mắt ông Trump",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tòa án tối cao Mỹ giữ nguyên lệnh cấm TikTok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Jensen Huang không tham dự lễ nhậm chức của ông Donald Trump",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mọi điều cần biết về Xiaohongshu, ứng dụng ‘hot’ nhất tại Mỹ ngay lúc này",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta hưởng lợi hàng tỷ USD nếu TikTok bị cấm tại Mỹ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "OpenAI ra mắt tính năng trợ lý ảo AI hẹn giờ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta sa thải 5% nhân sự, chuẩn bị cho ‘một năm căng thẳng’",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Ông Trump cân nhắc ra sắc lệnh giải cứu TikTok",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "TikTok chuẩn bị nhiều kịch bản trước giờ G",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thế hệ tương lai sẽ tiếp bước truyền thống ngành TT&TT",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vũ khí vi sóng nhỏ gọn phát sóng xung điện từ mạnh như bom hạt nhân",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chờ đón kỷ nguyên Zuck 3.0",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ áp lệnh cấm xuất khẩu chip AI ngay trước khi ông Joe Biden hết nhiệm kỳ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vì sao Mark Zuckerberg phải ‘xuống nước’ trước ông Donald Trump?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 18 sẽ được nâng cấp camera vượt trội",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mỹ cấm TikTok như thế nào?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "10 mẹo giúp pin iPhone kéo dài thời gian sử dụng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "8 thiết bị giá rẻ của Apple sẽ ra mắt trong năm 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiết lộ thời điểm ra mắt iPhone SE 4, có thể muộn hơn tháng 1",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg nói xấu Apple",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thông tin mới nhất về iPhone 17 Air với thiết kế siêu mỏng",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nhiều CEO công nghệ sẽ tham dự lễ nhậm chức của ông Donald Trump",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cảm biến camera chính của iPhone 17 Pro sẽ nhỏ hơn so với iPhone 16 Pro?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cả iPhone 17 Pro và iPhone 17 Pro Max đều được nâng cấp 1 tính năng đỉnh cao",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple đối mặt ‘báo động đỏ’ tại Trung Quốc, Foxconn công bố doanh thu kỷ lục",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Lần đầu tiên reviewer công nghệ được vinh danh tại Việt Nam",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk: Dữ liệu con người dùng để đào tạo AI đã cạn kiệt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "iPhone 17 Pro sẽ có 8 tính năng mới sáng giá",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thông tin mới nhất về tính năng đỉnh cao rất được mong đợi trên iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vbee ra mắt sản phẩm nhân bản giọng nói tiếng Việt",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Máy tính 3.000 USD của Nvidia thu hút sự chú ý tại CES 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mark Zuckerberg có thể gián tiếp khiến nhiều nhà báo thất nghiệp",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nghị quyết 57 tạo bước ngoặt để Việt Nam vươn mình trong kỷ nguyên số",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "5 lý do nên chờ MacBook Pro ra mắt năm sau",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Nvidia giá trị gấp đôi 4 công ty bán dẫn đối thủ cộng lại",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Thông tin gây thất vọng về trợ lý ảo Siri trên iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tiết lộ thời điểm ra mắt iPhone SE và iPad mới",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người dùng Internet liên tục tìm kiếm về Nguyễn Xuân Son",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Mô hình siêu trí tuệ phải tạo ra ít nhất 100 tỷ USD lợi nhuận",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Chờ đợi gì ở CES 2025?",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Apple Intelligence ‘ngốn’ 7GB dung lượng iPhone",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tim Cook quyên góp 1 triệu USD cho quỹ nhậm chức Tổng thống Donald Trump",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Người dân 'tâm phục khẩu phục' khi được xem lại hình ảnh lỗi vi phạm giao thông",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Tổng thống Trump 'cứu' TikTok, Nvidia đặt cược vào robot",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "10 người giàu nhất thế giới kiếm thêm 500 tỷ USD năm 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Trung Quốc trợ giá smartphone cho người dân",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Meta thay tướng, chuẩn bị cho chính quyền Trump 2.0",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Công ty Trung Quốc bán vội tài sản sau khi bị Mỹ cấm vận",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Năm 2024, Nvidia đầu tư 1 tỷ USD vào doanh nghiệp AI",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Những chiếc smartphone được mong chờ nhất năm 2025",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Vận may đảo ngược của hai hãng bán dẫn Mỹ: Intel thất thế, Broadcom bùng nổ",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Elon Musk, Mark Zuckerberg, Jensen Huan kiếm được bao nhiêu tiền trong năm 2024",
+        "label": "Công nghệ"
+    },
+    {
+        "title": "Cuộc cách mạng về thể chế cho khoa học công nghệ Việt Nam",
+        "label": "Công nghệ"
+    }
+]
