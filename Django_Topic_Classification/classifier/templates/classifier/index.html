@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Topic Classifier</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    {% load static %}
+</head>
+<body>
+    <h1>TOPIC CLASSIFIER</h1>
+    <h2>ENTER TEXT BELOW TO PREDICT ITS TOPIC</h2>
+    <div class="container">
+        <div class="text-box">
+            <h3>Your text</h3>
+            <form method="POST">
+                {% csrf_token %}
+                <textarea name="text" id="textInput" placeholder="Enter your text here..."></textarea>
+                <button type="button" class="clear" onclick="clearText()">Clear</button>
+                <button type="submit" class="classify">Classify text</button>
+            </form>
+        </div>
+        <div class="result-box">
+            <h3>Result</h3>
+            {% if result %}
+                <h3>The topic of your text is {{ result.label }}</h3>
+                <p>THE PROBABILITY:</p>
+                {% for label, prob in result.probabilities.items %}
+                    <div class="progress">
+                        <p>{{ label }}: {{ prob }}%</p>
+                        <div class="progress-bar">
+                            <div style="width: {{ prob }}%; background: {% if label == 'Chính trị' %}green{% elif label == 'Kinh tế' %}blue{% elif label == 'Văn hóa' %}purple{% elif label == 'Thể thao' %}orange{% else %}red{% endif %};">{{ prob }}%</div>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <p>Enter text to see the result.</p>
+            {% endif %}
+        </div>
+    </div>
+    <div class="try-this">
+        <h3>Try this!</h3>
+        <button onclick="setText('Chính phủ ban hành chính sách mới')">Chính trị</button>
+        <button onclick="setText('Kinh tế quý I tăng trưởng mạnh')">Kinh tế</button>
+        <button onclick="setText('Lễ hội văn hóa diễn ra tại Hà Nội')">Văn hóa</button>
+        <button onclick="setText('Đội tuyển Việt Nam thắng trận giao hữu')">Thể thao</button>
+        <button onclick="setText('Công nghệ AI đang thay đổi cuộc sống')">Công nghệ</button>
+    </div>
+
+    <script>
+        function clearText() {
+            document.getElementById("textInput").value = "";
+        }
+        function setText(text) {
+            document.getElementById("textInput").value = text;
+        }
+    </script>
+</body>
+</html>
