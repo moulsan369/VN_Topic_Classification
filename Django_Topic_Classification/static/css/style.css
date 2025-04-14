@@ -1,92 +1,93 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
 body {
-    font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+    background: linear-gradient(-20deg, #81c4e4 0%, #fb24d2 100%);
+    height: 100vh;
     margin: 0;
-    padding: 20px;
 }
 
-h1, h2 {
-    text-align: center;
-    color: white;
-}
-
-.container {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 20px;
-}
-
-.text-box, .result-box {
+.div-text {
+    border: 1px solid #ffffff; 
+    margin: 10px;
+    border-radius: 15px;
     background: rgba(255, 255, 255, 0.1);
-    border-radius: 10px;
-    padding: 20px;
-    width: 40%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-textarea {
-    width: 100%;
-    height: 150px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    resize: none;
+#inputtext {
+    border: 1px solid #ffffff; 
+    resize: none; 
+    width: 100%; 
+    background-color: rgba(255, 255, 255, 0.3); 
+    height: 270px;
+    color: #ffffff;
 }
 
-button {
-    padding: 10px 20px;
-    margin: 10px 5px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+#inputtext::placeholder {
+    color: #e0e0e0;
 }
 
-button.clear {
-    background: #ccc;
+.btn-form {
+    width: 48%;
 }
 
-button.classify {
-    background: #007bff;
-    color: white;
+.topic-label {
+    color: #ffffff;
 }
 
-.result-box h3 {
-    color: red;
-    text-align: center;
+.topic-icon {
+    width: 24px;
+    height: 24px;
+    margin-left: 8px;
+    vertical-align: middle;
 }
 
-.progress {
-    margin: 10px 0;
+.example-list {
+    padding: 0;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px; /* Giảm khoảng cách giữa các khung */
 }
 
-.progress-bar {
-    width: 100%;
-    background: #ddd;
-    border-radius: 5px;
-    overflow: hidden;
+.example-item {
+    font-size: 16px;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    padding: 5px 8px; /* Giảm padding để khung nhỏ gọn hơn */
+    background: rgba(255, 255, 255, 0.1);
+    transition: background 0.3s ease;
+    display: inline-block;
 }
 
-.progress-bar div {
-    height: 20px;
-    text-align: right;
-    padding-right: 5px;
-    color: white;
+.example-item:hover {
+    background: rgba(255, 255, 255, 0.2);
 }
 
-.progress-bar .positive { background: green; }
-.progress-bar .neutral { background: yellow; color: black; }
-.progress-bar .negative { background: red; }
-
-.try-this {
-    margin-top: 20px;
-    text-align: center;
+.example-item strong {
+    color: #81c4e4;
 }
 
-.try-this button {
-    margin: 5px;
-    background: #f0f0f0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px;
-    cursor: pointer;
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 20px 30px;
+    margin: 5px 20px;
 }
+
+.footer-text {
+    margin: 0;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-text:hover {
+    color: #81c4e4;
+}
+

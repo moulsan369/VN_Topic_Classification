@@ -40,18 +40,19 @@ def predict_text(text):
     probs = torch.softmax(outputs.logits, dim=-1).cpu().numpy()[0]
     prediction = torch.argmax(outputs.logits, dim=-1).item()
 
-    # Tạo dictionary xác suất và màu sắc
-    label_colors = {
-        "Chính trị": "green",
-        "Kinh tế": "blue",
-        "Văn hóa": "purple",
-        "Thể thao": "orange",
-        "Công nghệ": "red"
+    # Tạo dictionary màu sắc và icon cho từng nhãn
+    label_styles = {
+        "Chính trị": {"color": "green", "icon": "icons/politics.png"},
+        "Kinh tế": {"color": "blue", "icon": "icons/economy.png"},
+        "Văn hóa": {"color": "purple", "icon": "icons/culture.png"},
+        "Thể thao": {"color": "orange", "icon": "icons/sports.png"},
+        "Công nghệ": {"color": "red", "icon": "icons/technology.png"}
     }
     result = {
         "label": LABELS[prediction],
+        "icon": label_styles[LABELS[prediction]]["icon"],  # Đường dẫn icon cho nhãn được dự đoán
         "probabilities": [
-            {"label": LABELS[i], "prob": round(probs[i] * 100, 2), "color": label_colors[LABELS[i]]}
+            {"label": LABELS[i], "prob": round(probs[i] * 100, 2), "color": label_styles[LABELS[i]]["color"]}
             for i in range(len(LABELS))
         ]
     }
