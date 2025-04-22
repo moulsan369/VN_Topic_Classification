@@ -33,7 +33,7 @@ Dự án sử dụng thư viện PyTorch để xây dựng và huấn luyện m�
 Clone repository:
 
 ```
-git clone https://github.com/your-username/topic-classification.git
+https://github.com/moulsan369/VN_Topic_Classification.git
 ```
 
 Tạo và kích hoạt môi trường ảo (khuyến nghị):
