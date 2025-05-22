@@ -8,7 +8,7 @@ class VnexpressSpider(scrapy.Spider):
     def __init__(self, *args, **kwargs):
         super(VnexpressSpider, self).__init__(*args, **kwargs)
         self.url_count = 0
-        self.url_limit = 1000
+        self.url_limit = 20
         self.seen_urls = set()
         self.current_page = 1
         self.max_pages = 50

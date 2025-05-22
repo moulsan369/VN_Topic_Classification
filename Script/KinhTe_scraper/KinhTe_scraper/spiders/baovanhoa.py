@@ -8,7 +8,7 @@ class BaovanhoaSpider(scrapy.Spider):
     def __init__(self, *args, **kwargs):
         super(BaovanhoaSpider, self).__init__(*args, **kwargs)
         self.url_count = 0
-        self.url_limit = 710
+        self.url_limit = 5
         self.seen_urls = set()
 
     def parse(self, response):

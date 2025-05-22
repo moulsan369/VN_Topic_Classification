@@ -8,7 +8,7 @@ class ThanhnienSpider(scrapy.Spider):
     def __init__(self, *args, **kwargs):
         super(ThanhnienSpider, self).__init__(*args, **kwargs)
         self.url_count = 0
-        self.url_limit = 1000
+        self.url_limit = 20
         self.seen_urls = set()
 
     def parse(self, response):

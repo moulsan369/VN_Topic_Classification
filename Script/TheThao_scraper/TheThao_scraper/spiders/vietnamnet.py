@@ -8,7 +8,7 @@ class VietnamnetSpider(scrapy.Spider):
     def __init__(self, *args, **kwargs):
         super(VietnamnetSpider, self).__init__(*args, **kwargs)
         self.url_count = 0
-        self.url_limit = 1000
+        self.url_limit = 250
         self.seen_urls = set()
         self.current_page = 0
         self.max_pages = 50

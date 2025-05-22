@@ -8,7 +8,7 @@ class VovSpider(scrapy.Spider):
     def __init__(self, *args, **kwargs):
         super(VovSpider, self).__init__(*args, **kwargs)
         self.url_count = 0
-        self.url_limit = 1000
+        self.url_limit = 30
         self.seen_urls = set()
 
     def parse(self, response):
